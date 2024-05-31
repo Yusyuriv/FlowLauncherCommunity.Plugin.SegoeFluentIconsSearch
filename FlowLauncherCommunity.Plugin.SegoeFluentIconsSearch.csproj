@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0-windows</TargetFramework>
+        <ProjectGuid>{ECA851A7-03C1-4E61-98A8-87B927AAE711}</ProjectGuid>
+        <AssemblyName>FlowLauncherCommunity.Plugin.SegoeFluentIconsSearch</AssemblyName>
+        <PackageId>FlowLauncherCommunity.Plugin.SegoeFluentIconsSearch</PackageId>
+        <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+        <GenerateDocumentationFile>false</GenerateDocumentationFile>
+        <UseWpf>true</UseWpf>
+    </PropertyGroup>
+
+    <PropertyGroup Condition="'$(Configuration)'=='Release'">
+        <DebugSymbols>false</DebugSymbols>
+        <DebugType>None</DebugType>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Content Include=".github/workflows/*" />
+    </ItemGroup>
+
+
+    <ItemGroup>
+        <Content Include="plugin.json" CopyToOutputDirectory="Always" />
+        <Content Include="data.json" CopyToOutputDirectory="PreserveNewest" />
+        <Content Include="icon.png" CopyToOutputDirectory="PreserveNewest" />
+        <Content Include="LICENSE" CopyToOutputDirectory="PreserveNewest" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Flow.Launcher.Plugin" Version="4.2.0"/>
+        <PackageReference Include="JetBrains.Annotations" Version="2023.3.0" PrivateAssets="All" />
+    </ItemGroup>
+
+</Project>

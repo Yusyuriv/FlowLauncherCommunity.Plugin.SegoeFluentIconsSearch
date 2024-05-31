@@ -1,0 +1,5614 @@
+[
+  {
+    "value": 59136,
+    "label": "GlobalNavButton"
+  },
+  {
+    "value": 59137,
+    "label": "Wifi"
+  },
+  {
+    "value": 59138,
+    "label": "Bluetooth"
+  },
+  {
+    "value": 59139,
+    "label": "Connect"
+  },
+  {
+    "value": 59140,
+    "label": "InternetSharing"
+  },
+  {
+    "value": 59141,
+    "label": "VPN"
+  },
+  {
+    "value": 59142,
+    "label": "Brightness"
+  },
+  {
+    "value": 59143,
+    "label": "MapPin"
+  },
+  {
+    "value": 59144,
+    "label": "QuietHours"
+  },
+  {
+    "value": 59145,
+    "label": "Airplane"
+  },
+  {
+    "value": 59146,
+    "label": "Tablet"
+  },
+  {
+    "value": 59147,
+    "label": "QuickNote"
+  },
+  {
+    "value": 59148,
+    "label": "RememberedDevice"
+  },
+  {
+    "value": 59149,
+    "label": "ChevronDown"
+  },
+  {
+    "value": 59150,
+    "label": "ChevronUp"
+  },
+  {
+    "value": 59151,
+    "label": "Edit"
+  },
+  {
+    "value": 59152,
+    "label": "Add"
+  },
+  {
+    "value": 59153,
+    "label": "Cancel"
+  },
+  {
+    "value": 59154,
+    "label": "More"
+  },
+  {
+    "value": 59155,
+    "label": "Settings"
+  },
+  {
+    "value": 59156,
+    "label": "Video"
+  },
+  {
+    "value": 59157,
+    "label": "Mail"
+  },
+  {
+    "value": 59158,
+    "label": "People"
+  },
+  {
+    "value": 59159,
+    "label": "Phone"
+  },
+  {
+    "value": 59160,
+    "label": "Pin"
+  },
+  {
+    "value": 59161,
+    "label": "Shop"
+  },
+  {
+    "value": 59162,
+    "label": "Stop"
+  },
+  {
+    "value": 59163,
+    "label": "Link"
+  },
+  {
+    "value": 59164,
+    "label": "Filter"
+  },
+  {
+    "value": 59165,
+    "label": "AllApps"
+  },
+  {
+    "value": 59166,
+    "label": "Zoom"
+  },
+  {
+    "value": 59167,
+    "label": "ZoomOut"
+  },
+  {
+    "value": 59168,
+    "label": "Microphone"
+  },
+  {
+    "value": 59169,
+    "label": "Search"
+  },
+  {
+    "value": 59170,
+    "label": "Camera"
+  },
+  {
+    "value": 59171,
+    "label": "Attach"
+  },
+  {
+    "value": 59172,
+    "label": "Send"
+  },
+  {
+    "value": 59173,
+    "label": "SendFill"
+  },
+  {
+    "value": 59174,
+    "label": "WalkSolid"
+  },
+  {
+    "value": 59175,
+    "label": "InPrivate"
+  },
+  {
+    "value": 59176,
+    "label": "FavoriteList"
+  },
+  {
+    "value": 59177,
+    "label": "PageSolid"
+  },
+  {
+    "value": 59178,
+    "label": "Forward"
+  },
+  {
+    "value": 59179,
+    "label": "Back"
+  },
+  {
+    "value": 59180,
+    "label": "Refresh"
+  },
+  {
+    "value": 59181,
+    "label": "Share"
+  },
+  {
+    "value": 59182,
+    "label": "Lock"
+  },
+  {
+    "value": 59184,
+    "label": "ReportHacked"
+  },
+  {
+    "value": 59185,
+    "label": "EMI"
+  },
+  {
+    "value": 59188,
+    "label": "FavoriteStar"
+  },
+  {
+    "value": 59189,
+    "label": "FavoriteStarFill"
+  },
+  {
+    "value": 59190,
+    "label": "ReadingMode"
+  },
+  {
+    "value": 59191,
+    "label": "Favicon"
+  },
+  {
+    "value": 59192,
+    "label": "Remove"
+  },
+  {
+    "value": 59193,
+    "label": "Checkbox"
+  },
+  {
+    "value": 59194,
+    "label": "CheckboxComposite"
+  },
+  {
+    "value": 59195,
+    "label": "CheckboxFill"
+  },
+  {
+    "value": 59196,
+    "label": "CheckboxIndeterminate"
+  },
+  {
+    "value": 59197,
+    "label": "CheckboxCompositeReversed"
+  },
+  {
+    "value": 59198,
+    "label": "CheckMark"
+  },
+  {
+    "value": 59199,
+    "label": "BackToWindow"
+  },
+  {
+    "value": 59200,
+    "label": "FullScreen"
+  },
+  {
+    "value": 59201,
+    "label": "ResizeTouchLarger"
+  },
+  {
+    "value": 59202,
+    "label": "ResizeTouchSmaller"
+  },
+  {
+    "value": 59203,
+    "label": "ResizeMouseSmall"
+  },
+  {
+    "value": 59204,
+    "label": "ResizeMouseMedium"
+  },
+  {
+    "value": 59205,
+    "label": "ResizeMouseWide"
+  },
+  {
+    "value": 59206,
+    "label": "ResizeMouseTall"
+  },
+  {
+    "value": 59207,
+    "label": "ResizeMouseLarge"
+  },
+  {
+    "value": 59208,
+    "label": "SwitchUser"
+  },
+  {
+    "value": 59209,
+    "label": "Print"
+  },
+  {
+    "value": 59210,
+    "label": "Up"
+  },
+  {
+    "value": 59211,
+    "label": "Down"
+  },
+  {
+    "value": 59212,
+    "label": "OEM"
+  },
+  {
+    "value": 59213,
+    "label": "Delete"
+  },
+  {
+    "value": 59214,
+    "label": "Save"
+  },
+  {
+    "value": 59215,
+    "label": "Mute"
+  },
+  {
+    "value": 59216,
+    "label": "BackSpaceQWERTY"
+  },
+  {
+    "value": 59217,
+    "label": "ReturnKey"
+  },
+  {
+    "value": 59218,
+    "label": "UpArrowShiftKey"
+  },
+  {
+    "value": 59219,
+    "label": "Cloud"
+  },
+  {
+    "value": 59220,
+    "label": "Flashlight"
+  },
+  {
+    "value": 59221,
+    "label": "RotationLock"
+  },
+  {
+    "value": 59222,
+    "label": "CommandPrompt"
+  },
+  {
+    "value": 59225,
+    "label": "SIPMove"
+  },
+  {
+    "value": 59226,
+    "label": "SIPUndock"
+  },
+  {
+    "value": 59227,
+    "label": "SIPRedock"
+  },
+  {
+    "value": 59228,
+    "label": "EraseTool"
+  },
+  {
+    "value": 59229,
+    "label": "UnderscoreSpace"
+  },
+  {
+    "value": 59230,
+    "label": "GripperTool"
+  },
+  {
+    "value": 59231,
+    "label": "Dialpad"
+  },
+  {
+    "value": 59232,
+    "label": "PageLeft"
+  },
+  {
+    "value": 59233,
+    "label": "PageRight"
+  },
+  {
+    "value": 59234,
+    "label": "MultiSelect"
+  },
+  {
+    "value": 59235,
+    "label": "KeyboardLeftHanded"
+  },
+  {
+    "value": 59236,
+    "label": "KeyboardRightHanded"
+  },
+  {
+    "value": 59237,
+    "label": "KeyboardClassic"
+  },
+  {
+    "value": 59238,
+    "label": "KeyboardSplit"
+  },
+  {
+    "value": 59239,
+    "label": "Volume"
+  },
+  {
+    "value": 59240,
+    "label": "Play"
+  },
+  {
+    "value": 59241,
+    "label": "Pause"
+  },
+  {
+    "value": 59243,
+    "label": "ChevronLeft"
+  },
+  {
+    "value": 59244,
+    "label": "ChevronRight"
+  },
+  {
+    "value": 59245,
+    "label": "InkingTool"
+  },
+  {
+    "value": 59246,
+    "label": "Emoji2"
+  },
+  {
+    "value": 59247,
+    "label": "GripperBarHorizontal"
+  },
+  {
+    "value": 59248,
+    "label": "System"
+  },
+  {
+    "value": 59249,
+    "label": "Personalize"
+  },
+  {
+    "value": 59250,
+    "label": "Devices"
+  },
+  {
+    "value": 59251,
+    "label": "SearchAndApps"
+  },
+  {
+    "value": 59252,
+    "label": "Globe"
+  },
+  {
+    "value": 59253,
+    "label": "TimeLanguage"
+  },
+  {
+    "value": 59254,
+    "label": "EaseOfAccess"
+  },
+  {
+    "value": 59255,
+    "label": "UpdateRestore"
+  },
+  {
+    "value": 59256,
+    "label": "HangUp"
+  },
+  {
+    "value": 59257,
+    "label": "ContactInfo"
+  },
+  {
+    "value": 59258,
+    "label": "Unpin"
+  },
+  {
+    "value": 59259,
+    "label": "Contact"
+  },
+  {
+    "value": 59260,
+    "label": "Memo"
+  },
+  {
+    "value": 59262,
+    "label": "IncomingCall"
+  },
+  {
+    "value": 59263,
+    "label": "Paste"
+  },
+  {
+    "value": 59264,
+    "label": "PhoneBook"
+  },
+  {
+    "value": 59265,
+    "label": "LEDLight"
+  },
+  {
+    "value": 59267,
+    "label": "Error"
+  },
+  {
+    "value": 59268,
+    "label": "GripperBarVertical"
+  },
+  {
+    "value": 59269,
+    "label": "Unlock"
+  },
+  {
+    "value": 59270,
+    "label": "Slideshow"
+  },
+  {
+    "value": 59271,
+    "label": "Calendar"
+  },
+  {
+    "value": 59272,
+    "label": "GripperResize"
+  },
+  {
+    "value": 59273,
+    "label": "Megaphone"
+  },
+  {
+    "value": 59274,
+    "label": "Trim"
+  },
+  {
+    "value": 59275,
+    "label": "NewWindow"
+  },
+  {
+    "value": 59276,
+    "label": "SaveLocal"
+  },
+  {
+    "value": 59280,
+    "label": "Color"
+  },
+  {
+    "value": 59281,
+    "label": "DataSense"
+  },
+  {
+    "value": 59282,
+    "label": "SaveAs"
+  },
+  {
+    "value": 59283,
+    "label": "Light"
+  },
+  {
+    "value": 59289,
+    "label": "AspectRatio"
+  },
+  {
+    "value": 59301,
+    "label": "DataSenseBar"
+  },
+  {
+    "value": 59302,
+    "label": "Redo"
+  },
+  {
+    "value": 59303,
+    "label": "Undo"
+  },
+  {
+    "value": 59304,
+    "label": "Crop"
+  },
+  {
+    "value": 59308,
+    "label": "OpenWith"
+  },
+  {
+    "value": 59309,
+    "label": "Rotate"
+  },
+  {
+    "value": 59315,
+    "label": "RedEye"
+  },
+  {
+    "value": 59317,
+    "label": "SetlockScreen"
+  },
+  {
+    "value": 59319,
+    "label": "MapPin2"
+  },
+  {
+    "value": 59320,
+    "label": "Package"
+  },
+  {
+    "value": 59322,
+    "label": "Warning"
+  },
+  {
+    "value": 59324,
+    "label": "ReadingList"
+  },
+  {
+    "value": 59326,
+    "label": "Education"
+  },
+  {
+    "value": 59327,
+    "label": "ShoppingCart"
+  },
+  {
+    "value": 59328,
+    "label": "Train"
+  },
+  {
+    "value": 59329,
+    "label": "Flag"
+  },
+  {
+    "value": 59330,
+    "label": "Move"
+  },
+  {
+    "value": 59331,
+    "label": "Page"
+  },
+  {
+    "value": 59332,
+    "label": "TaskView"
+  },
+  {
+    "value": 59333,
+    "label": "BrowsePhotos"
+  },
+  {
+    "value": 59334,
+    "label": "HalfStarLeft"
+  },
+  {
+    "value": 59335,
+    "label": "HalfStarRight"
+  },
+  {
+    "value": 59336,
+    "label": "Record"
+  },
+  {
+    "value": 59337,
+    "label": "TouchPointer"
+  },
+  {
+    "value": 59358,
+    "label": "LangJPN"
+  },
+  {
+    "value": 59363,
+    "label": "Ferry"
+  },
+  {
+    "value": 59366,
+    "label": "Highlight"
+  },
+  {
+    "value": 59367,
+    "label": "ActionCenterNotification"
+  },
+  {
+    "value": 59368,
+    "label": "PowerButton"
+  },
+  {
+    "value": 59370,
+    "label": "ResizeTouchNarrower"
+  },
+  {
+    "value": 59371,
+    "label": "ResizeTouchShorter"
+  },
+  {
+    "value": 59372,
+    "label": "DrivingMode"
+  },
+  {
+    "value": 59373,
+    "label": "RingerSilent"
+  },
+  {
+    "value": 59374,
+    "label": "OtherUser"
+  },
+  {
+    "value": 59375,
+    "label": "Admin"
+  },
+  {
+    "value": 59376,
+    "label": "CC"
+  },
+  {
+    "value": 59377,
+    "label": "SDCard"
+  },
+  {
+    "value": 59378,
+    "label": "CallForwarding"
+  },
+  {
+    "value": 59379,
+    "label": "SettingsDisplaySound"
+  },
+  {
+    "value": 59380,
+    "label": "TVMonitor"
+  },
+  {
+    "value": 59381,
+    "label": "Speakers"
+  },
+  {
+    "value": 59382,
+    "label": "Headphone"
+  },
+  {
+    "value": 59383,
+    "label": "DeviceLaptopPic"
+  },
+  {
+    "value": 59384,
+    "label": "DeviceLaptopNoPic"
+  },
+  {
+    "value": 59385,
+    "label": "DeviceMonitorRightPic"
+  },
+  {
+    "value": 59386,
+    "label": "DeviceMonitorLeftPic"
+  },
+  {
+    "value": 59387,
+    "label": "DeviceMonitorNoPic"
+  },
+  {
+    "value": 59388,
+    "label": "Game"
+  },
+  {
+    "value": 59389,
+    "label": "HorizontalTabKey"
+  },
+  {
+    "value": 59394,
+    "label": "StreetsideSplitMinimize"
+  },
+  {
+    "value": 59395,
+    "label": "StreetsideSplitExpand"
+  },
+  {
+    "value": 59396,
+    "label": "Car"
+  },
+  {
+    "value": 59397,
+    "label": "Walk"
+  },
+  {
+    "value": 59398,
+    "label": "Bus"
+  },
+  {
+    "value": 59401,
+    "label": "TiltUp"
+  },
+  {
+    "value": 59402,
+    "label": "TiltDown"
+  },
+  {
+    "value": 59403,
+    "label": "CallControl"
+  },
+  {
+    "value": 59404,
+    "label": "RotateMapRight"
+  },
+  {
+    "value": 59405,
+    "label": "RotateMapLeft"
+  },
+  {
+    "value": 59407,
+    "label": "Home"
+  },
+  {
+    "value": 59409,
+    "label": "ParkingLocation"
+  },
+  {
+    "value": 59410,
+    "label": "MapCompassTop"
+  },
+  {
+    "value": 59411,
+    "label": "MapCompassBottom"
+  },
+  {
+    "value": 59412,
+    "label": "IncidentTriangle"
+  },
+  {
+    "value": 59413,
+    "label": "Touch"
+  },
+  {
+    "value": 59414,
+    "label": "MapDirections"
+  },
+  {
+    "value": 59417,
+    "label": "StartPoint"
+  },
+  {
+    "value": 59418,
+    "label": "StopPoint"
+  },
+  {
+    "value": 59419,
+    "label": "EndPoint"
+  },
+  {
+    "value": 59420,
+    "label": "History"
+  },
+  {
+    "value": 59421,
+    "label": "Location"
+  },
+  {
+    "value": 59422,
+    "label": "MapLayers"
+  },
+  {
+    "value": 59423,
+    "label": "Accident"
+  },
+  {
+    "value": 59425,
+    "label": "Work"
+  },
+  {
+    "value": 59426,
+    "label": "Construction"
+  },
+  {
+    "value": 59427,
+    "label": "Recent"
+  },
+  {
+    "value": 59429,
+    "label": "Bank"
+  },
+  {
+    "value": 59430,
+    "label": "DownloadMap"
+  },
+  {
+    "value": 59433,
+    "label": "InkingToolFill2"
+  },
+  {
+    "value": 59434,
+    "label": "HighlightFill2"
+  },
+  {
+    "value": 59435,
+    "label": "EraseToolFill"
+  },
+  {
+    "value": 59436,
+    "label": "EraseToolFill2"
+  },
+  {
+    "value": 59437,
+    "label": "Dictionary"
+  },
+  {
+    "value": 59438,
+    "label": "DictionaryAdd"
+  },
+  {
+    "value": 59439,
+    "label": "ToolTip"
+  },
+  {
+    "value": 59440,
+    "label": "ChromeBack"
+  },
+  {
+    "value": 59445,
+    "label": "ProvisioningPackage"
+  },
+  {
+    "value": 59446,
+    "label": "AddRemoteDevice"
+  },
+  {
+    "value": 59448,
+    "label": "FolderOpen"
+  },
+  {
+    "value": 59449,
+    "label": "Ethernet"
+  },
+  {
+    "value": 59450,
+    "label": "ShareBroadband"
+  },
+  {
+    "value": 59451,
+    "label": "DirectAccess"
+  },
+  {
+    "value": 59452,
+    "label": "DialUp"
+  },
+  {
+    "value": 59453,
+    "label": "DefenderApp"
+  },
+  {
+    "value": 59454,
+    "label": "BatteryCharging9"
+  },
+  {
+    "value": 59455,
+    "label": "Battery10"
+  },
+  {
+    "value": 59456,
+    "label": "Pinned"
+  },
+  {
+    "value": 59457,
+    "label": "PinFill"
+  },
+  {
+    "value": 59458,
+    "label": "PinnedFill"
+  },
+  {
+    "value": 59459,
+    "label": "PeriodKey"
+  },
+  {
+    "value": 59460,
+    "label": "PuncKey"
+  },
+  {
+    "value": 59461,
+    "label": "RevToggleKey"
+  },
+  {
+    "value": 59462,
+    "label": "RightArrowKeyTime1"
+  },
+  {
+    "value": 59463,
+    "label": "RightArrowKeyTime2"
+  },
+  {
+    "value": 59464,
+    "label": "LeftQuote"
+  },
+  {
+    "value": 59465,
+    "label": "RightQuote"
+  },
+  {
+    "value": 59466,
+    "label": "DownShiftKey"
+  },
+  {
+    "value": 59467,
+    "label": "UpShiftKey"
+  },
+  {
+    "value": 59468,
+    "label": "PuncKey0"
+  },
+  {
+    "value": 59469,
+    "label": "PuncKeyLeftBottom"
+  },
+  {
+    "value": 59470,
+    "label": "RightArrowKeyTime3"
+  },
+  {
+    "value": 59471,
+    "label": "RightArrowKeyTime4"
+  },
+  {
+    "value": 59472,
+    "label": "Battery0"
+  },
+  {
+    "value": 59473,
+    "label": "Battery1"
+  },
+  {
+    "value": 59474,
+    "label": "Battery2"
+  },
+  {
+    "value": 59475,
+    "label": "Battery3"
+  },
+  {
+    "value": 59476,
+    "label": "Battery4"
+  },
+  {
+    "value": 59477,
+    "label": "Battery5"
+  },
+  {
+    "value": 59478,
+    "label": "Battery6"
+  },
+  {
+    "value": 59479,
+    "label": "Battery7"
+  },
+  {
+    "value": 59480,
+    "label": "Battery8"
+  },
+  {
+    "value": 59481,
+    "label": "Battery9"
+  },
+  {
+    "value": 59482,
+    "label": "BatteryCharging0"
+  },
+  {
+    "value": 59483,
+    "label": "BatteryCharging1"
+  },
+  {
+    "value": 59484,
+    "label": "BatteryCharging2"
+  },
+  {
+    "value": 59485,
+    "label": "BatteryCharging3"
+  },
+  {
+    "value": 59486,
+    "label": "BatteryCharging4"
+  },
+  {
+    "value": 59487,
+    "label": "BatteryCharging5"
+  },
+  {
+    "value": 59488,
+    "label": "BatteryCharging6"
+  },
+  {
+    "value": 59489,
+    "label": "BatteryCharging7"
+  },
+  {
+    "value": 59490,
+    "label": "BatteryCharging8"
+  },
+  {
+    "value": 59491,
+    "label": "BatterySaver0"
+  },
+  {
+    "value": 59492,
+    "label": "BatterySaver1"
+  },
+  {
+    "value": 59493,
+    "label": "BatterySaver2"
+  },
+  {
+    "value": 59494,
+    "label": "BatterySaver3"
+  },
+  {
+    "value": 59495,
+    "label": "BatterySaver4"
+  },
+  {
+    "value": 59496,
+    "label": "BatterySaver5"
+  },
+  {
+    "value": 59497,
+    "label": "BatterySaver6"
+  },
+  {
+    "value": 59498,
+    "label": "BatterySaver7"
+  },
+  {
+    "value": 59499,
+    "label": "BatterySaver8"
+  },
+  {
+    "value": 59500,
+    "label": "SignalBars1"
+  },
+  {
+    "value": 59501,
+    "label": "SignalBars2"
+  },
+  {
+    "value": 59502,
+    "label": "SignalBars3"
+  },
+  {
+    "value": 59503,
+    "label": "SignalBars4"
+  },
+  {
+    "value": 59504,
+    "label": "SignalBars5"
+  },
+  {
+    "value": 59505,
+    "label": "SignalNotConnected"
+  },
+  {
+    "value": 59506,
+    "label": "Wifi1"
+  },
+  {
+    "value": 59507,
+    "label": "Wifi2"
+  },
+  {
+    "value": 59508,
+    "label": "Wifi3"
+  },
+  {
+    "value": 59509,
+    "label": "MobSIMLock"
+  },
+  {
+    "value": 59510,
+    "label": "MobSIMMissing"
+  },
+  {
+    "value": 59511,
+    "label": "Vibrate"
+  },
+  {
+    "value": 59512,
+    "label": "RoamingInternational"
+  },
+  {
+    "value": 59513,
+    "label": "RoamingDomestic"
+  },
+  {
+    "value": 59514,
+    "label": "CallForwardInternational"
+  },
+  {
+    "value": 59515,
+    "label": "CallForwardRoaming"
+  },
+  {
+    "value": 59516,
+    "label": "JpnRomanji"
+  },
+  {
+    "value": 59517,
+    "label": "JpnRomanjiLock"
+  },
+  {
+    "value": 59518,
+    "label": "JpnRomanjiShift"
+  },
+  {
+    "value": 59519,
+    "label": "JpnRomanjiShiftLock"
+  },
+  {
+    "value": 59520,
+    "label": "StatusDataTransfer"
+  },
+  {
+    "value": 59521,
+    "label": "StatusDataTransferVPN"
+  },
+  {
+    "value": 59522,
+    "label": "StatusDualSIM2"
+  },
+  {
+    "value": 59523,
+    "label": "StatusDualSIM2VPN"
+  },
+  {
+    "value": 59524,
+    "label": "StatusDualSIM1"
+  },
+  {
+    "value": 59525,
+    "label": "StatusDualSIM1VPN"
+  },
+  {
+    "value": 59526,
+    "label": "StatusSGLTE"
+  },
+  {
+    "value": 59527,
+    "label": "StatusSGLTECell"
+  },
+  {
+    "value": 59528,
+    "label": "StatusSGLTEDataVPN"
+  },
+  {
+    "value": 59529,
+    "label": "StatusVPN"
+  },
+  {
+    "value": 59530,
+    "label": "WifiHotspot"
+  },
+  {
+    "value": 59531,
+    "label": "LanguageKor"
+  },
+  {
+    "value": 59532,
+    "label": "LanguageCht"
+  },
+  {
+    "value": 59533,
+    "label": "LanguageChs"
+  },
+  {
+    "value": 59534,
+    "label": "USB"
+  },
+  {
+    "value": 59535,
+    "label": "InkingToolFill"
+  },
+  {
+    "value": 59536,
+    "label": "View"
+  },
+  {
+    "value": 59537,
+    "label": "HighlightFill"
+  },
+  {
+    "value": 59538,
+    "label": "Previous"
+  },
+  {
+    "value": 59539,
+    "label": "Next"
+  },
+  {
+    "value": 59540,
+    "label": "Clear"
+  },
+  {
+    "value": 59541,
+    "label": "Sync"
+  },
+  {
+    "value": 59542,
+    "label": "Download"
+  },
+  {
+    "value": 59543,
+    "label": "Help"
+  },
+  {
+    "value": 59544,
+    "label": "Upload"
+  },
+  {
+    "value": 59545,
+    "label": "Emoji"
+  },
+  {
+    "value": 59546,
+    "label": "TwoPage"
+  },
+  {
+    "value": 59547,
+    "label": "LeaveChat"
+  },
+  {
+    "value": 59548,
+    "label": "MailForward"
+  },
+  {
+    "value": 59550,
+    "label": "RotateCamera"
+  },
+  {
+    "value": 59551,
+    "label": "ClosePane"
+  },
+  {
+    "value": 59552,
+    "label": "OpenPane"
+  },
+  {
+    "value": 59553,
+    "label": "PreviewLink"
+  },
+  {
+    "value": 59554,
+    "label": "AttachCamera"
+  },
+  {
+    "value": 59555,
+    "label": "ZoomIn"
+  },
+  {
+    "value": 59556,
+    "label": "Bookmarks"
+  },
+  {
+    "value": 59557,
+    "label": "Document"
+  },
+  {
+    "value": 59558,
+    "label": "ProtectedDocument"
+  },
+  {
+    "value": 59559,
+    "label": "OpenInNewWindow"
+  },
+  {
+    "value": 59560,
+    "label": "MailFill"
+  },
+  {
+    "value": 59561,
+    "label": "ViewAll"
+  },
+  {
+    "value": 59562,
+    "label": "VideoChat"
+  },
+  {
+    "value": 59563,
+    "label": "Switch"
+  },
+  {
+    "value": 59564,
+    "label": "Rename"
+  },
+  {
+    "value": 59565,
+    "label": "Go"
+  },
+  {
+    "value": 59566,
+    "label": "SurfaceHub"
+  },
+  {
+    "value": 59567,
+    "label": "Remote"
+  },
+  {
+    "value": 59568,
+    "label": "Click"
+  },
+  {
+    "value": 59569,
+    "label": "Shuffle"
+  },
+  {
+    "value": 59570,
+    "label": "Movies"
+  },
+  {
+    "value": 59571,
+    "label": "SelectAll"
+  },
+  {
+    "value": 59572,
+    "label": "Orientation"
+  },
+  {
+    "value": 59573,
+    "label": "Import"
+  },
+  {
+    "value": 59574,
+    "label": "ImportAll"
+  },
+  {
+    "value": 59575,
+    "label": "Folder"
+  },
+  {
+    "value": 59576,
+    "label": "Webcam"
+  },
+  {
+    "value": 59577,
+    "label": "Picture"
+  },
+  {
+    "value": 59578,
+    "label": "Caption"
+  },
+  {
+    "value": 59579,
+    "label": "ChromeClose"
+  },
+  {
+    "value": 59580,
+    "label": "ShowResults"
+  },
+  {
+    "value": 59581,
+    "label": "Message"
+  },
+  {
+    "value": 59582,
+    "label": "Leaf"
+  },
+  {
+    "value": 59583,
+    "label": "CalendarDay"
+  },
+  {
+    "value": 59584,
+    "label": "CalendarWeek"
+  },
+  {
+    "value": 59585,
+    "label": "Characters"
+  },
+  {
+    "value": 59586,
+    "label": "MailReplyAll"
+  },
+  {
+    "value": 59587,
+    "label": "Read"
+  },
+  {
+    "value": 59588,
+    "label": "ShowBcc"
+  },
+  {
+    "value": 59589,
+    "label": "HideBcc"
+  },
+  {
+    "value": 59590,
+    "label": "Cut"
+  },
+  {
+    "value": 59591,
+    "label": "PaymentCard"
+  },
+  {
+    "value": 59592,
+    "label": "Copy"
+  },
+  {
+    "value": 59593,
+    "label": "Important"
+  },
+  {
+    "value": 59594,
+    "label": "MailReply"
+  },
+  {
+    "value": 59595,
+    "label": "Sort"
+  },
+  {
+    "value": 59596,
+    "label": "MobileTablet"
+  },
+  {
+    "value": 59597,
+    "label": "DisconnectDrive"
+  },
+  {
+    "value": 59598,
+    "label": "MapDrive"
+  },
+  {
+    "value": 59599,
+    "label": "ContactPresence"
+  },
+  {
+    "value": 59600,
+    "label": "Priority"
+  },
+  {
+    "value": 59601,
+    "label": "GotoToday"
+  },
+  {
+    "value": 59602,
+    "label": "Font"
+  },
+  {
+    "value": 59603,
+    "label": "FontColor"
+  },
+  {
+    "value": 59604,
+    "label": "Contact2"
+  },
+  {
+    "value": 59605,
+    "label": "FolderFill"
+  },
+  {
+    "value": 59606,
+    "label": "Audio"
+  },
+  {
+    "value": 59607,
+    "label": "Permissions"
+  },
+  {
+    "value": 59608,
+    "label": "DisableUpdates"
+  },
+  {
+    "value": 59609,
+    "label": "Unfavorite"
+  },
+  {
+    "value": 59610,
+    "label": "OpenLocal"
+  },
+  {
+    "value": 59611,
+    "label": "Italic"
+  },
+  {
+    "value": 59612,
+    "label": "Underline"
+  },
+  {
+    "value": 59613,
+    "label": "Bold"
+  },
+  {
+    "value": 59614,
+    "label": "MoveToFolder"
+  },
+  {
+    "value": 59615,
+    "label": "LikeDislike"
+  },
+  {
+    "value": 59616,
+    "label": "Dislike"
+  },
+  {
+    "value": 59617,
+    "label": "Like"
+  },
+  {
+    "value": 59618,
+    "label": "AlignRight"
+  },
+  {
+    "value": 59619,
+    "label": "AlignCenter"
+  },
+  {
+    "value": 59620,
+    "label": "AlignLeft"
+  },
+  {
+    "value": 59621,
+    "label": "OpenFile"
+  },
+  {
+    "value": 59622,
+    "label": "ClearSelection"
+  },
+  {
+    "value": 59623,
+    "label": "FontDecrease"
+  },
+  {
+    "value": 59624,
+    "label": "FontIncrease"
+  },
+  {
+    "value": 59625,
+    "label": "FontSize"
+  },
+  {
+    "value": 59626,
+    "label": "CellPhone"
+  },
+  {
+    "value": 59627,
+    "label": "Reshare"
+  },
+  {
+    "value": 59628,
+    "label": "Tag"
+  },
+  {
+    "value": 59629,
+    "label": "RepeatOne"
+  },
+  {
+    "value": 59630,
+    "label": "RepeatAll"
+  },
+  {
+    "value": 59631,
+    "label": "Calculator"
+  },
+  {
+    "value": 59632,
+    "label": "Directions"
+  },
+  {
+    "value": 59633,
+    "label": "Library"
+  },
+  {
+    "value": 59634,
+    "label": "ChatBubbles"
+  },
+  {
+    "value": 59635,
+    "label": "PostUpdate"
+  },
+  {
+    "value": 59636,
+    "label": "NewFolder"
+  },
+  {
+    "value": 59637,
+    "label": "CalendarReply"
+  },
+  {
+    "value": 59638,
+    "label": "UnsyncFolder"
+  },
+  {
+    "value": 59639,
+    "label": "SyncFolder"
+  },
+  {
+    "value": 59640,
+    "label": "BlockContact"
+  },
+  {
+    "value": 59641,
+    "label": "SwitchApps"
+  },
+  {
+    "value": 59642,
+    "label": "AddFriend"
+  },
+  {
+    "value": 59643,
+    "label": "Accept"
+  },
+  {
+    "value": 59644,
+    "label": "GoToStart"
+  },
+  {
+    "value": 59645,
+    "label": "BulletedList"
+  },
+  {
+    "value": 59646,
+    "label": "Scan"
+  },
+  {
+    "value": 59647,
+    "label": "Preview"
+  },
+  {
+    "value": 59650,
+    "label": "Group"
+  },
+  {
+    "value": 59652,
+    "label": "ZeroBars"
+  },
+  {
+    "value": 59653,
+    "label": "OneBar"
+  },
+  {
+    "value": 59654,
+    "label": "TwoBars"
+  },
+  {
+    "value": 59655,
+    "label": "ThreeBars"
+  },
+  {
+    "value": 59656,
+    "label": "FourBars"
+  },
+  {
+    "value": 59657,
+    "label": "World"
+  },
+  {
+    "value": 59658,
+    "label": "Comment"
+  },
+  {
+    "value": 59659,
+    "label": "MusicInfo"
+  },
+  {
+    "value": 59660,
+    "label": "DockLeft"
+  },
+  {
+    "value": 59661,
+    "label": "DockRight"
+  },
+  {
+    "value": 59662,
+    "label": "DockBottom"
+  },
+  {
+    "value": 59663,
+    "label": "Repair"
+  },
+  {
+    "value": 59664,
+    "label": "Accounts"
+  },
+  {
+    "value": 59665,
+    "label": "DullSound"
+  },
+  {
+    "value": 59666,
+    "label": "Manage"
+  },
+  {
+    "value": 59667,
+    "label": "Street"
+  },
+  {
+    "value": 59668,
+    "label": "Printer3D"
+  },
+  {
+    "value": 59669,
+    "label": "RadioBullet"
+  },
+  {
+    "value": 59670,
+    "label": "Stopwatch"
+  },
+  {
+    "value": 59675,
+    "label": "Photo"
+  },
+  {
+    "value": 59676,
+    "label": "ActionCenter"
+  },
+  {
+    "value": 59679,
+    "label": "FullCircleMask"
+  },
+  {
+    "value": 59681,
+    "label": "ChromeMinimize"
+  },
+  {
+    "value": 59682,
+    "label": "ChromeMaximize"
+  },
+  {
+    "value": 59683,
+    "label": "ChromeRestore"
+  },
+  {
+    "value": 59684,
+    "label": "Annotation"
+  },
+  {
+    "value": 59685,
+    "label": "BackSpaceQWERTYSm"
+  },
+  {
+    "value": 59686,
+    "label": "BackSpaceQWERTYMd"
+  },
+  {
+    "value": 59687,
+    "label": "Swipe"
+  },
+  {
+    "value": 59688,
+    "label": "Fingerprint"
+  },
+  {
+    "value": 59689,
+    "label": "Handwriting"
+  },
+  {
+    "value": 59692,
+    "label": "ChromeBackToWindow"
+  },
+  {
+    "value": 59693,
+    "label": "ChromeFullScreen"
+  },
+  {
+    "value": 59694,
+    "label": "KeyboardStandard"
+  },
+  {
+    "value": 59695,
+    "label": "KeyboardDismiss"
+  },
+  {
+    "value": 59696,
+    "label": "Completed"
+  },
+  {
+    "value": 59697,
+    "label": "ChromeAnnotate"
+  },
+  {
+    "value": 59698,
+    "label": "Label"
+  },
+  {
+    "value": 59699,
+    "label": "IBeam"
+  },
+  {
+    "value": 59700,
+    "label": "IBeamOutline"
+  },
+  {
+    "value": 59701,
+    "label": "FlickDown"
+  },
+  {
+    "value": 59702,
+    "label": "FlickUp"
+  },
+  {
+    "value": 59703,
+    "label": "FlickLeft"
+  },
+  {
+    "value": 59704,
+    "label": "FlickRight"
+  },
+  {
+    "value": 59705,
+    "label": "FeedbackApp"
+  },
+  {
+    "value": 59708,
+    "label": "MusicAlbum"
+  },
+  {
+    "value": 59710,
+    "label": "Streaming"
+  },
+  {
+    "value": 59715,
+    "label": "Code"
+  },
+  {
+    "value": 59716,
+    "label": "ReturnToWindow"
+  },
+  {
+    "value": 59717,
+    "label": "LightningBolt"
+  },
+  {
+    "value": 59718,
+    "label": "Info"
+  },
+  {
+    "value": 59719,
+    "label": "CalculatorMultiply"
+  },
+  {
+    "value": 59720,
+    "label": "CalculatorAddition"
+  },
+  {
+    "value": 59721,
+    "label": "CalculatorSubtract"
+  },
+  {
+    "value": 59722,
+    "label": "CalculatorDivide"
+  },
+  {
+    "value": 59723,
+    "label": "CalculatorSquareroot"
+  },
+  {
+    "value": 59724,
+    "label": "CalculatorPercentage"
+  },
+  {
+    "value": 59725,
+    "label": "CalculatorNegate"
+  },
+  {
+    "value": 59726,
+    "label": "CalculatorEqualTo"
+  },
+  {
+    "value": 59727,
+    "label": "CalculatorBackspace"
+  },
+  {
+    "value": 59728,
+    "label": "Component"
+  },
+  {
+    "value": 59729,
+    "label": "DMC"
+  },
+  {
+    "value": 59730,
+    "label": "Dock"
+  },
+  {
+    "value": 59731,
+    "label": "MultimediaDMS"
+  },
+  {
+    "value": 59732,
+    "label": "MultimediaDVR"
+  },
+  {
+    "value": 59733,
+    "label": "MultimediaPMP"
+  },
+  {
+    "value": 59734,
+    "label": "PrintfaxPrinterFile"
+  },
+  {
+    "value": 59735,
+    "label": "Sensor"
+  },
+  {
+    "value": 59736,
+    "label": "StorageOptical"
+  },
+  {
+    "value": 59738,
+    "label": "Communications"
+  },
+  {
+    "value": 59739,
+    "label": "Headset"
+  },
+  {
+    "value": 59741,
+    "label": "Projector"
+  },
+  {
+    "value": 59742,
+    "label": "Health"
+  },
+  {
+    "value": 59743,
+    "label": "Wire"
+  },
+  {
+    "value": 59744,
+    "label": "Webcam2"
+  },
+  {
+    "value": 59745,
+    "label": "Input"
+  },
+  {
+    "value": 59746,
+    "label": "Mouse"
+  },
+  {
+    "value": 59747,
+    "label": "Smartcard"
+  },
+  {
+    "value": 59748,
+    "label": "SmartcardVirtual"
+  },
+  {
+    "value": 59749,
+    "label": "MediaStorageTower"
+  },
+  {
+    "value": 59750,
+    "label": "ReturnKeySm"
+  },
+  {
+    "value": 59751,
+    "label": "GameConsole"
+  },
+  {
+    "value": 59752,
+    "label": "Network"
+  },
+  {
+    "value": 59753,
+    "label": "StorageNetworkWireless"
+  },
+  {
+    "value": 59754,
+    "label": "StorageTape"
+  },
+  {
+    "value": 59757,
+    "label": "ChevronUpSmall"
+  },
+  {
+    "value": 59758,
+    "label": "ChevronDownSmall"
+  },
+  {
+    "value": 59759,
+    "label": "ChevronLeftSmall"
+  },
+  {
+    "value": 59760,
+    "label": "ChevronRightSmall"
+  },
+  {
+    "value": 59761,
+    "label": "ChevronUpMed"
+  },
+  {
+    "value": 59762,
+    "label": "ChevronDownMed"
+  },
+  {
+    "value": 59763,
+    "label": "ChevronLeftMed"
+  },
+  {
+    "value": 59764,
+    "label": "ChevronRightMed"
+  },
+  {
+    "value": 59765,
+    "label": "Devices2"
+  },
+  {
+    "value": 59766,
+    "label": "ExpandTile"
+  },
+  {
+    "value": 59767,
+    "label": "PC1"
+  },
+  {
+    "value": 59768,
+    "label": "PresenceChicklet"
+  },
+  {
+    "value": 59769,
+    "label": "PresenceChickletVideo"
+  },
+  {
+    "value": 59770,
+    "label": "Reply"
+  },
+  {
+    "value": 59771,
+    "label": "SetTile"
+  },
+  {
+    "value": 59772,
+    "label": "Type"
+  },
+  {
+    "value": 59773,
+    "label": "Korean"
+  },
+  {
+    "value": 59774,
+    "label": "HalfAlpha"
+  },
+  {
+    "value": 59775,
+    "label": "FullAlpha"
+  },
+  {
+    "value": 59776,
+    "label": "Key12On"
+  },
+  {
+    "value": 59777,
+    "label": "ChineseChangjie"
+  },
+  {
+    "value": 59778,
+    "label": "QWERTYOn"
+  },
+  {
+    "value": 59779,
+    "label": "QWERTYOff"
+  },
+  {
+    "value": 59780,
+    "label": "ChineseQuick"
+  },
+  {
+    "value": 59781,
+    "label": "Japanese"
+  },
+  {
+    "value": 59782,
+    "label": "FullHiragana"
+  },
+  {
+    "value": 59783,
+    "label": "FullKatakana"
+  },
+  {
+    "value": 59784,
+    "label": "HalfKatakana"
+  },
+  {
+    "value": 59785,
+    "label": "ChineseBoPoMoFo"
+  },
+  {
+    "value": 59786,
+    "label": "ChinesePinyin"
+  },
+  {
+    "value": 59791,
+    "label": "ConstructionCone"
+  },
+  {
+    "value": 59792,
+    "label": "XboxOneConsole"
+  },
+  {
+    "value": 59794,
+    "label": "Volume0"
+  },
+  {
+    "value": 59795,
+    "label": "Volume1"
+  },
+  {
+    "value": 59796,
+    "label": "Volume2"
+  },
+  {
+    "value": 59797,
+    "label": "Volume3"
+  },
+  {
+    "value": 59798,
+    "label": "BatteryUnknown"
+  },
+  {
+    "value": 59800,
+    "label": "WifiAttentionOverlay"
+  },
+  {
+    "value": 59802,
+    "label": "Robot"
+  },
+  {
+    "value": 59809,
+    "label": "TapAndSend"
+  },
+  {
+    "value": 59814,
+    "label": "FitPage"
+  },
+  {
+    "value": 59816,
+    "label": "PasswordKeyShow"
+  },
+  {
+    "value": 59817,
+    "label": "PasswordKeyHide"
+  },
+  {
+    "value": 59818,
+    "label": "BidiLtr"
+  },
+  {
+    "value": 59819,
+    "label": "BidiRtl"
+  },
+  {
+    "value": 59820,
+    "label": "ForwardSm"
+  },
+  {
+    "value": 59821,
+    "label": "CommaKey"
+  },
+  {
+    "value": 59822,
+    "label": "DashKey"
+  },
+  {
+    "value": 59823,
+    "label": "DullSoundKey"
+  },
+  {
+    "value": 59824,
+    "label": "HalfDullSound"
+  },
+  {
+    "value": 59825,
+    "label": "RightDoubleQuote"
+  },
+  {
+    "value": 59826,
+    "label": "LeftDoubleQuote"
+  },
+  {
+    "value": 59827,
+    "label": "PuncKeyRightBottom"
+  },
+  {
+    "value": 59828,
+    "label": "PuncKey1"
+  },
+  {
+    "value": 59829,
+    "label": "PuncKey2"
+  },
+  {
+    "value": 59830,
+    "label": "PuncKey3"
+  },
+  {
+    "value": 59831,
+    "label": "PuncKey4"
+  },
+  {
+    "value": 59832,
+    "label": "PuncKey5"
+  },
+  {
+    "value": 59833,
+    "label": "PuncKey6"
+  },
+  {
+    "value": 59834,
+    "label": "PuncKey9"
+  },
+  {
+    "value": 59835,
+    "label": "PuncKey7"
+  },
+  {
+    "value": 59836,
+    "label": "PuncKey8"
+  },
+  {
+    "value": 59850,
+    "label": "Frigid"
+  },
+  {
+    "value": 59854,
+    "label": "Unknown"
+  },
+  {
+    "value": 59858,
+    "label": "AreaChart"
+  },
+  {
+    "value": 59861,
+    "label": "CheckList"
+  },
+  {
+    "value": 59865,
+    "label": "Diagnostic"
+  },
+  {
+    "value": 59881,
+    "label": "Equalizer"
+  },
+  {
+    "value": 59891,
+    "label": "Process"
+  },
+  {
+    "value": 59893,
+    "label": "Processing"
+  },
+  {
+    "value": 59897,
+    "label": "ReportDocument"
+  },
+  {
+    "value": 59916,
+    "label": "VideoSolid"
+  },
+  {
+    "value": 59917,
+    "label": "MixedMediaBadge"
+  },
+  {
+    "value": 59924,
+    "label": "DisconnectDisplay"
+  },
+  {
+    "value": 59928,
+    "label": "Shield"
+  },
+  {
+    "value": 59935,
+    "label": "Info2"
+  },
+  {
+    "value": 59937,
+    "label": "ActionCenterAsterisk"
+  },
+  {
+    "value": 59940,
+    "label": "Beta"
+  },
+  {
+    "value": 59957,
+    "label": "SaveCopy"
+  },
+  {
+    "value": 59959,
+    "label": "List"
+  },
+  {
+    "value": 59960,
+    "label": "Asterisk"
+  },
+  {
+    "value": 59961,
+    "label": "ErrorBadge"
+  },
+  {
+    "value": 59962,
+    "label": "CircleRing"
+  },
+  {
+    "value": 59963,
+    "label": "CircleFill"
+  },
+  {
+    "value": 59964,
+    "label": "MergeCall"
+  },
+  {
+    "value": 59965,
+    "label": "PrivateCall"
+  },
+  {
+    "value": 59967,
+    "label": "Record2"
+  },
+  {
+    "value": 59968,
+    "label": "AllAppsMirrored"
+  },
+  {
+    "value": 59969,
+    "label": "BookmarksMirrored"
+  },
+  {
+    "value": 59970,
+    "label": "BulletedListMirrored"
+  },
+  {
+    "value": 59971,
+    "label": "CallForwardInternationalMirrored"
+  },
+  {
+    "value": 59972,
+    "label": "CallForwardRoamingMirrored"
+  },
+  {
+    "value": 59975,
+    "label": "ChromeBackMirrored"
+  },
+  {
+    "value": 59976,
+    "label": "ClearSelectionMirrored"
+  },
+  {
+    "value": 59977,
+    "label": "ClosePaneMirrored"
+  },
+  {
+    "value": 59978,
+    "label": "ContactInfoMirrored"
+  },
+  {
+    "value": 59979,
+    "label": "DockRightMirrored"
+  },
+  {
+    "value": 59980,
+    "label": "DockLeftMirrored"
+  },
+  {
+    "value": 59982,
+    "label": "ExpandTileMirrored"
+  },
+  {
+    "value": 59983,
+    "label": "GoMirrored"
+  },
+  {
+    "value": 59984,
+    "label": "GripperResizeMirrored"
+  },
+  {
+    "value": 59985,
+    "label": "HelpMirrored"
+  },
+  {
+    "value": 59986,
+    "label": "ImportMirrored"
+  },
+  {
+    "value": 59987,
+    "label": "ImportAllMirrored"
+  },
+  {
+    "value": 59988,
+    "label": "LeaveChatMirrored"
+  },
+  {
+    "value": 59989,
+    "label": "ListMirrored"
+  },
+  {
+    "value": 59990,
+    "label": "MailForwardMirrored"
+  },
+  {
+    "value": 59991,
+    "label": "MailReplyMirrored"
+  },
+  {
+    "value": 59992,
+    "label": "MailReplyAllMirrored"
+  },
+  {
+    "value": 59995,
+    "label": "OpenPaneMirrored"
+  },
+  {
+    "value": 59996,
+    "label": "OpenWithMirrored"
+  },
+  {
+    "value": 59998,
+    "label": "ParkingLocationMirrored"
+  },
+  {
+    "value": 59999,
+    "label": "ResizeMouseMediumMirrored"
+  },
+  {
+    "value": 60000,
+    "label": "ResizeMouseSmallMirrored"
+  },
+  {
+    "value": 60001,
+    "label": "ResizeMouseTallMirrored"
+  },
+  {
+    "value": 60002,
+    "label": "ResizeTouchNarrowerMirrored"
+  },
+  {
+    "value": 60003,
+    "label": "SendMirrored"
+  },
+  {
+    "value": 60004,
+    "label": "SendFillMirrored"
+  },
+  {
+    "value": 60005,
+    "label": "ShowResultsMirrored"
+  },
+  {
+    "value": 60009,
+    "label": "Media"
+  },
+  {
+    "value": 60010,
+    "label": "SyncError"
+  },
+  {
+    "value": 60012,
+    "label": "Devices3"
+  },
+  {
+    "value": 60025,
+    "label": "SlowMotionOn"
+  },
+  {
+    "value": 60032,
+    "label": "Lightbulb"
+  },
+  {
+    "value": 60033,
+    "label": "StatusCircle"
+  },
+  {
+    "value": 60034,
+    "label": "StatusTriangle"
+  },
+  {
+    "value": 60035,
+    "label": "StatusError"
+  },
+  {
+    "value": 60036,
+    "label": "StatusWarning"
+  },
+  {
+    "value": 60038,
+    "label": "Puzzle"
+  },
+  {
+    "value": 60041,
+    "label": "CalendarSolid"
+  },
+  {
+    "value": 60042,
+    "label": "HomeSolid"
+  },
+  {
+    "value": 60043,
+    "label": "ParkingLocationSolid"
+  },
+  {
+    "value": 60044,
+    "label": "ContactSolid"
+  },
+  {
+    "value": 60045,
+    "label": "ConstructionSolid"
+  },
+  {
+    "value": 60046,
+    "label": "AccidentSolid"
+  },
+  {
+    "value": 60047,
+    "label": "Ringer"
+  },
+  {
+    "value": 60048,
+    "label": "PDF"
+  },
+  {
+    "value": 60049,
+    "label": "ThoughtBubble"
+  },
+  {
+    "value": 60050,
+    "label": "HeartBroken"
+  },
+  {
+    "value": 60051,
+    "label": "BatteryCharging10"
+  },
+  {
+    "value": 60052,
+    "label": "BatterySaver9"
+  },
+  {
+    "value": 60053,
+    "label": "BatterySaver10"
+  },
+  {
+    "value": 60055,
+    "label": "CallForwardingMirrored"
+  },
+  {
+    "value": 60056,
+    "label": "MultiSelectMirrored"
+  },
+  {
+    "value": 60057,
+    "label": "Broom"
+  },
+  {
+    "value": 60098,
+    "label": "ForwardCall"
+  },
+  {
+    "value": 60127,
+    "label": "Trackers"
+  },
+  {
+    "value": 60156,
+    "label": "Market"
+  },
+  {
+    "value": 60165,
+    "label": "PieSingle"
+  },
+  {
+    "value": 60175,
+    "label": "StockUp"
+  },
+  {
+    "value": 60177,
+    "label": "StockDown"
+  },
+  {
+    "value": 60220,
+    "label": "Design"
+  },
+  {
+    "value": 60225,
+    "label": "Website"
+  },
+  {
+    "value": 60226,
+    "label": "Drop"
+  },
+  {
+    "value": 60228,
+    "label": "Radar"
+  },
+  {
+    "value": 60231,
+    "label": "BusSolid"
+  },
+  {
+    "value": 60232,
+    "label": "FerrySolid"
+  },
+  {
+    "value": 60233,
+    "label": "StartPointSolid"
+  },
+  {
+    "value": 60234,
+    "label": "StopPointSolid"
+  },
+  {
+    "value": 60235,
+    "label": "EndPointSolid"
+  },
+  {
+    "value": 60236,
+    "label": "AirplaneSolid"
+  },
+  {
+    "value": 60237,
+    "label": "TrainSolid"
+  },
+  {
+    "value": 60238,
+    "label": "WorkSolid"
+  },
+  {
+    "value": 60239,
+    "label": "ReminderFill"
+  },
+  {
+    "value": 60240,
+    "label": "Reminder"
+  },
+  {
+    "value": 60241,
+    "label": "Heart"
+  },
+  {
+    "value": 60242,
+    "label": "HeartFill"
+  },
+  {
+    "value": 60245,
+    "label": "EthernetError"
+  },
+  {
+    "value": 60246,
+    "label": "EthernetWarning"
+  },
+  {
+    "value": 60247,
+    "label": "StatusConnecting1"
+  },
+  {
+    "value": 60248,
+    "label": "StatusConnecting2"
+  },
+  {
+    "value": 60249,
+    "label": "StatusUnsecure"
+  },
+  {
+    "value": 60250,
+    "label": "WifiError0"
+  },
+  {
+    "value": 60251,
+    "label": "WifiError1"
+  },
+  {
+    "value": 60252,
+    "label": "WifiError2"
+  },
+  {
+    "value": 60253,
+    "label": "WifiError3"
+  },
+  {
+    "value": 60254,
+    "label": "WifiError4"
+  },
+  {
+    "value": 60255,
+    "label": "WifiWarning0"
+  },
+  {
+    "value": 60256,
+    "label": "WifiWarning1"
+  },
+  {
+    "value": 60257,
+    "label": "WifiWarning2"
+  },
+  {
+    "value": 60258,
+    "label": "WifiWarning3"
+  },
+  {
+    "value": 60259,
+    "label": "WifiWarning4"
+  },
+  {
+    "value": 60262,
+    "label": "Devices4"
+  },
+  {
+    "value": 60263,
+    "label": "NUIIris"
+  },
+  {
+    "value": 60264,
+    "label": "NUIFace"
+  },
+  {
+    "value": 60279,
+    "label": "GatewayRouter"
+  },
+  {
+    "value": 60286,
+    "label": "EditMirrored"
+  },
+  {
+    "value": 60290,
+    "label": "NUIFPStartSlideHand"
+  },
+  {
+    "value": 60291,
+    "label": "NUIFPStartSlideAction"
+  },
+  {
+    "value": 60292,
+    "label": "NUIFPContinueSlideHand"
+  },
+  {
+    "value": 60293,
+    "label": "NUIFPContinueSlideAction"
+  },
+  {
+    "value": 60294,
+    "label": "NUIFPRollRightHand"
+  },
+  {
+    "value": 60295,
+    "label": "NUIFPRollRightHandAction"
+  },
+  {
+    "value": 60296,
+    "label": "NUIFPRollLeftHand"
+  },
+  {
+    "value": 60297,
+    "label": "NUIFPRollLeftAction"
+  },
+  {
+    "value": 60298,
+    "label": "NUIFPPressHand"
+  },
+  {
+    "value": 60299,
+    "label": "NUIFPPressAction"
+  },
+  {
+    "value": 60300,
+    "label": "NUIFPPressRepeatHand"
+  },
+  {
+    "value": 60301,
+    "label": "NUIFPPressRepeatAction"
+  },
+  {
+    "value": 60304,
+    "label": "StatusErrorFull"
+  },
+  {
+    "value": 60305,
+    "label": "TaskViewExpanded"
+  },
+  {
+    "value": 60309,
+    "label": "Certificate"
+  },
+  {
+    "value": 60310,
+    "label": "BackSpaceQWERTYLg"
+  },
+  {
+    "value": 60311,
+    "label": "ReturnKeyLg"
+  },
+  {
+    "value": 60317,
+    "label": "FastForward"
+  },
+  {
+    "value": 60318,
+    "label": "Rewind"
+  },
+  {
+    "value": 60319,
+    "label": "Photo2"
+  },
+  {
+    "value": 60320,
+    "label": "MobBattery0"
+  },
+  {
+    "value": 60321,
+    "label": "MobBattery1"
+  },
+  {
+    "value": 60322,
+    "label": "MobBattery2"
+  },
+  {
+    "value": 60323,
+    "label": "MobBattery3"
+  },
+  {
+    "value": 60324,
+    "label": "MobBattery4"
+  },
+  {
+    "value": 60325,
+    "label": "MobBattery5"
+  },
+  {
+    "value": 60326,
+    "label": "MobBattery6"
+  },
+  {
+    "value": 60327,
+    "label": "MobBattery7"
+  },
+  {
+    "value": 60328,
+    "label": "MobBattery8"
+  },
+  {
+    "value": 60329,
+    "label": "MobBattery9"
+  },
+  {
+    "value": 60330,
+    "label": "MobBattery10"
+  },
+  {
+    "value": 60331,
+    "label": "MobBatteryCharging0"
+  },
+  {
+    "value": 60332,
+    "label": "MobBatteryCharging1"
+  },
+  {
+    "value": 60333,
+    "label": "MobBatteryCharging2"
+  },
+  {
+    "value": 60334,
+    "label": "MobBatteryCharging3"
+  },
+  {
+    "value": 60335,
+    "label": "MobBatteryCharging4"
+  },
+  {
+    "value": 60336,
+    "label": "MobBatteryCharging5"
+  },
+  {
+    "value": 60337,
+    "label": "MobBatteryCharging6"
+  },
+  {
+    "value": 60338,
+    "label": "MobBatteryCharging7"
+  },
+  {
+    "value": 60339,
+    "label": "MobBatteryCharging8"
+  },
+  {
+    "value": 60340,
+    "label": "MobBatteryCharging9"
+  },
+  {
+    "value": 60341,
+    "label": "MobBatteryCharging10"
+  },
+  {
+    "value": 60342,
+    "label": "MobBatterySaver0"
+  },
+  {
+    "value": 60343,
+    "label": "MobBatterySaver1"
+  },
+  {
+    "value": 60344,
+    "label": "MobBatterySaver2"
+  },
+  {
+    "value": 60345,
+    "label": "MobBatterySaver3"
+  },
+  {
+    "value": 60346,
+    "label": "MobBatterySaver4"
+  },
+  {
+    "value": 60347,
+    "label": "MobBatterySaver5"
+  },
+  {
+    "value": 60348,
+    "label": "MobBatterySaver6"
+  },
+  {
+    "value": 60349,
+    "label": "MobBatterySaver7"
+  },
+  {
+    "value": 60350,
+    "label": "MobBatterySaver8"
+  },
+  {
+    "value": 60351,
+    "label": "MobBatterySaver9"
+  },
+  {
+    "value": 60352,
+    "label": "MobBatterySaver10"
+  },
+  {
+    "value": 60355,
+    "label": "DictionaryCloud"
+  },
+  {
+    "value": 60356,
+    "label": "ResetDrive"
+  },
+  {
+    "value": 60357,
+    "label": "VolumeBars"
+  },
+  {
+    "value": 60358,
+    "label": "Project"
+  },
+  {
+    "value": 60370,
+    "label": "AdjustHologram"
+  },
+  {
+    "value": 60371,
+    "label": "CloudDownload"
+  },
+  {
+    "value": 60372,
+    "label": "MobWifiCallBars"
+  },
+  {
+    "value": 60373,
+    "label": "MobWifiCall0"
+  },
+  {
+    "value": 60374,
+    "label": "MobWifiCall1"
+  },
+  {
+    "value": 60375,
+    "label": "MobWifiCall2"
+  },
+  {
+    "value": 60376,
+    "label": "MobWifiCall3"
+  },
+  {
+    "value": 60377,
+    "label": "MobWifiCall4"
+  },
+  {
+    "value": 60378,
+    "label": "Family"
+  },
+  {
+    "value": 60379,
+    "label": "LockFeedback"
+  },
+  {
+    "value": 60382,
+    "label": "DeviceDiscovery"
+  },
+  {
+    "value": 60390,
+    "label": "WindDirection"
+  },
+  {
+    "value": 60391,
+    "label": "RightArrowKeyTime0"
+  },
+  {
+    "value": 60392,
+    "label": "Bug"
+  },
+  {
+    "value": 60412,
+    "label": "TabletMode"
+  },
+  {
+    "value": 60413,
+    "label": "StatusCircleLeft"
+  },
+  {
+    "value": 60414,
+    "label": "StatusTriangleLeft"
+  },
+  {
+    "value": 60415,
+    "label": "StatusErrorLeft"
+  },
+  {
+    "value": 60416,
+    "label": "StatusWarningLeft"
+  },
+  {
+    "value": 60418,
+    "label": "MobBatteryUnknown"
+  },
+  {
+    "value": 60421,
+    "label": "NetworkTower"
+  },
+  {
+    "value": 60422,
+    "label": "CityNext"
+  },
+  {
+    "value": 60423,
+    "label": "CityNext2"
+  },
+  {
+    "value": 60424,
+    "label": "Courthouse"
+  },
+  {
+    "value": 60425,
+    "label": "Groceries"
+  },
+  {
+    "value": 60426,
+    "label": "Sustainable"
+  },
+  {
+    "value": 60427,
+    "label": "BuildingEnergy"
+  },
+  {
+    "value": 60433,
+    "label": "ToggleFilled"
+  },
+  {
+    "value": 60434,
+    "label": "ToggleBorder"
+  },
+  {
+    "value": 60435,
+    "label": "SliderThumb"
+  },
+  {
+    "value": 60436,
+    "label": "ToggleThumb"
+  },
+  {
+    "value": 60437,
+    "label": "MiracastLogoSmall"
+  },
+  {
+    "value": 60438,
+    "label": "MiracastLogoLarge"
+  },
+  {
+    "value": 60441,
+    "label": "PLAP"
+  },
+  {
+    "value": 60443,
+    "label": "Badge"
+  },
+  {
+    "value": 60446,
+    "label": "SignalRoaming"
+  },
+  {
+    "value": 60448,
+    "label": "MobileLocked"
+  },
+  {
+    "value": 60452,
+    "label": "InsiderHubApp"
+  },
+  {
+    "value": 60453,
+    "label": "PersonalFolder"
+  },
+  {
+    "value": 60454,
+    "label": "HomeGroup"
+  },
+  {
+    "value": 60455,
+    "label": "MyNetwork"
+  },
+  {
+    "value": 60465,
+    "label": "KeyboardFull"
+  },
+  {
+    "value": 60466,
+    "label": "Cafe"
+  },
+  {
+    "value": 60471,
+    "label": "MobSignal1"
+  },
+  {
+    "value": 60472,
+    "label": "MobSignal2"
+  },
+  {
+    "value": 60473,
+    "label": "MobSignal3"
+  },
+  {
+    "value": 60474,
+    "label": "MobSignal4"
+  },
+  {
+    "value": 60475,
+    "label": "MobSignal5"
+  },
+  {
+    "value": 60476,
+    "label": "MobWifi1"
+  },
+  {
+    "value": 60477,
+    "label": "MobWifi2"
+  },
+  {
+    "value": 60478,
+    "label": "MobWifi3"
+  },
+  {
+    "value": 60479,
+    "label": "MobWifi4"
+  },
+  {
+    "value": 60480,
+    "label": "MobAirplane"
+  },
+  {
+    "value": 60481,
+    "label": "MobBluetooth"
+  },
+  {
+    "value": 60482,
+    "label": "MobActionCenter"
+  },
+  {
+    "value": 60483,
+    "label": "MobLocation"
+  },
+  {
+    "value": 60484,
+    "label": "MobWifiHotspot"
+  },
+  {
+    "value": 60485,
+    "label": "LanguageJpn"
+  },
+  {
+    "value": 60486,
+    "label": "MobQuietHours"
+  },
+  {
+    "value": 60487,
+    "label": "MobDrivingMode"
+  },
+  {
+    "value": 60488,
+    "label": "SpeedOff"
+  },
+  {
+    "value": 60489,
+    "label": "SpeedMedium"
+  },
+  {
+    "value": 60490,
+    "label": "SpeedHigh"
+  },
+  {
+    "value": 60494,
+    "label": "ThisPC"
+  },
+  {
+    "value": 60495,
+    "label": "MusicNote"
+  },
+  {
+    "value": 60496,
+    "label": "FileExplorer"
+  },
+  {
+    "value": 60497,
+    "label": "FileExplorerApp"
+  },
+  {
+    "value": 60498,
+    "label": "LeftArrowKeyTime0"
+  },
+  {
+    "value": 60500,
+    "label": "MicOff"
+  },
+  {
+    "value": 60501,
+    "label": "MicSleep"
+  },
+  {
+    "value": 60502,
+    "label": "MicError"
+  },
+  {
+    "value": 60503,
+    "label": "PlaybackRate1x"
+  },
+  {
+    "value": 60504,
+    "label": "PlaybackRateOther"
+  },
+  {
+    "value": 60505,
+    "label": "CashDrawer"
+  },
+  {
+    "value": 60506,
+    "label": "BarcodeScanner"
+  },
+  {
+    "value": 60507,
+    "label": "ReceiptPrinter"
+  },
+  {
+    "value": 60508,
+    "label": "MagStripeReader"
+  },
+  {
+    "value": 60513,
+    "label": "CompletedSolid"
+  },
+  {
+    "value": 60516,
+    "label": "CompanionApp"
+  },
+  {
+    "value": 60524,
+    "label": "Favicon2"
+  },
+  {
+    "value": 60525,
+    "label": "SwipeRevealArt"
+  },
+  {
+    "value": 60529,
+    "label": "MicOn"
+  },
+  {
+    "value": 60530,
+    "label": "MicClipping"
+  },
+  {
+    "value": 60532,
+    "label": "TabletSelected"
+  },
+  {
+    "value": 60533,
+    "label": "MobileSelected"
+  },
+  {
+    "value": 60534,
+    "label": "LaptopSelected"
+  },
+  {
+    "value": 60535,
+    "label": "TVMonitorSelected"
+  },
+  {
+    "value": 60538,
+    "label": "DeveloperTools"
+  },
+  {
+    "value": 60542,
+    "label": "MobCallForwarding"
+  },
+  {
+    "value": 60543,
+    "label": "MobCallForwardingMirrored"
+  },
+  {
+    "value": 60544,
+    "label": "BodyCam"
+  },
+  {
+    "value": 60545,
+    "label": "PoliceCar"
+  },
+  {
+    "value": 60551,
+    "label": "Draw"
+  },
+  {
+    "value": 60552,
+    "label": "DrawSolid"
+  },
+  {
+    "value": 60554,
+    "label": "LowerBrightness"
+  },
+  {
+    "value": 60559,
+    "label": "ScrollUpDown"
+  },
+  {
+    "value": 60562,
+    "label": "DateTime"
+  },
+  {
+    "value": 60564,
+    "label": "HoloLens"
+  },
+  {
+    "value": 60581,
+    "label": "Tiles"
+  },
+  {
+    "value": 60583,
+    "label": "PartyLeader"
+  },
+  {
+    "value": 60586,
+    "label": "AppIconDefault"
+  },
+  {
+    "value": 60589,
+    "label": "Calories"
+  },
+  {
+    "value": 60591,
+    "label": "POI"
+  },
+  {
+    "value": 60601,
+    "label": "BandBattery0"
+  },
+  {
+    "value": 60602,
+    "label": "BandBattery1"
+  },
+  {
+    "value": 60603,
+    "label": "BandBattery2"
+  },
+  {
+    "value": 60604,
+    "label": "BandBattery3"
+  },
+  {
+    "value": 60605,
+    "label": "BandBattery4"
+  },
+  {
+    "value": 60606,
+    "label": "BandBattery5"
+  },
+  {
+    "value": 60607,
+    "label": "BandBattery6"
+  },
+  {
+    "value": 60612,
+    "label": "AddSurfaceHub"
+  },
+  {
+    "value": 60613,
+    "label": "DevUpdate"
+  },
+  {
+    "value": 60614,
+    "label": "Unit"
+  },
+  {
+    "value": 60616,
+    "label": "AddTo"
+  },
+  {
+    "value": 60617,
+    "label": "RemoveFrom"
+  },
+  {
+    "value": 60618,
+    "label": "RadioBtnOff"
+  },
+  {
+    "value": 60619,
+    "label": "RadioBtnOn"
+  },
+  {
+    "value": 60620,
+    "label": "RadioBullet2"
+  },
+  {
+    "value": 60621,
+    "label": "ExploreContent"
+  },
+  {
+    "value": 60644,
+    "label": "Blocked2"
+  },
+  {
+    "value": 60647,
+    "label": "ScrollMode"
+  },
+  {
+    "value": 60648,
+    "label": "ZoomMode"
+  },
+  {
+    "value": 60649,
+    "label": "PanMode"
+  },
+  {
+    "value": 60656,
+    "label": "WiredUSB"
+  },
+  {
+    "value": 60657,
+    "label": "WirelessUSB"
+  },
+  {
+    "value": 60659,
+    "label": "USBSafeConnect"
+  },
+  {
+    "value": 60684,
+    "label": "ActionCenterNotificationMirrored"
+  },
+  {
+    "value": 60685,
+    "label": "ActionCenterMirrored"
+  },
+  {
+    "value": 60686,
+    "label": "SubscriptionAdd"
+  },
+  {
+    "value": 60688,
+    "label": "ResetDevice"
+  },
+  {
+    "value": 60689,
+    "label": "SubscriptionAddMirrored"
+  },
+  {
+    "value": 60692,
+    "label": "QRCode"
+  },
+  {
+    "value": 60693,
+    "label": "Feedback"
+  },
+  {
+    "value": 60698,
+    "label": "Hide"
+  },
+  {
+    "value": 60702,
+    "label": "Subtitles"
+  },
+  {
+    "value": 60703,
+    "label": "SubtitlesAudio"
+  },
+  {
+    "value": 60709,
+    "label": "OpenFolderHorizontal"
+  },
+  {
+    "value": 60712,
+    "label": "CalendarMirrored"
+  },
+  {
+    "value": 60714,
+    "label": "MobeSIM"
+  },
+  {
+    "value": 60715,
+    "label": "MobeSIMNoProfile"
+  },
+  {
+    "value": 60716,
+    "label": "MobeSIMLocked"
+  },
+  {
+    "value": 60717,
+    "label": "MobeSIMBusy"
+  },
+  {
+    "value": 60718,
+    "label": "SignalError"
+  },
+  {
+    "value": 60719,
+    "label": "StreamingEnterprise"
+  },
+  {
+    "value": 60720,
+    "label": "Headphone0"
+  },
+  {
+    "value": 60721,
+    "label": "Headphone1"
+  },
+  {
+    "value": 60722,
+    "label": "Headphone2"
+  },
+  {
+    "value": 60723,
+    "label": "Headphone3"
+  },
+  {
+    "value": 60725,
+    "label": "Apps"
+  },
+  {
+    "value": 60729,
+    "label": "KeyboardBrightness"
+  },
+  {
+    "value": 60730,
+    "label": "KeyboardLowerBrightness"
+  },
+  {
+    "value": 60732,
+    "label": "SkipBack10"
+  },
+  {
+    "value": 60733,
+    "label": "SkipForward30"
+  },
+  {
+    "value": 60737,
+    "label": "TreeFolderFolder"
+  },
+  {
+    "value": 60738,
+    "label": "TreeFolderFolderFill"
+  },
+  {
+    "value": 60739,
+    "label": "TreeFolderFolderOpen"
+  },
+  {
+    "value": 60740,
+    "label": "TreeFolderFolderOpenFill"
+  },
+  {
+    "value": 60743,
+    "label": "MultimediaDMP"
+  },
+  {
+    "value": 60748,
+    "label": "KeyboardOneHanded"
+  },
+  {
+    "value": 60749,
+    "label": "Narrator"
+  },
+  {
+    "value": 60755,
+    "label": "EmojiTabPeople"
+  },
+  {
+    "value": 60756,
+    "label": "EmojiTabSmilesAnimals"
+  },
+  {
+    "value": 60757,
+    "label": "EmojiTabCelebrationObjects"
+  },
+  {
+    "value": 60758,
+    "label": "EmojiTabFoodPlants"
+  },
+  {
+    "value": 60759,
+    "label": "EmojiTabTransitPlaces"
+  },
+  {
+    "value": 60760,
+    "label": "EmojiTabSymbols"
+  },
+  {
+    "value": 60761,
+    "label": "EmojiTabTextSmiles"
+  },
+  {
+    "value": 60762,
+    "label": "EmojiTabFavorites"
+  },
+  {
+    "value": 60763,
+    "label": "EmojiSwatch"
+  },
+  {
+    "value": 60764,
+    "label": "ConnectApp"
+  },
+  {
+    "value": 60765,
+    "label": "CompanionDeviceFramework"
+  },
+  {
+    "value": 60766,
+    "label": "Ruler"
+  },
+  {
+    "value": 60767,
+    "label": "FingerInking"
+  },
+  {
+    "value": 60768,
+    "label": "StrokeErase"
+  },
+  {
+    "value": 60769,
+    "label": "PointErase"
+  },
+  {
+    "value": 60770,
+    "label": "ClearAllInk"
+  },
+  {
+    "value": 60771,
+    "label": "Pencil"
+  },
+  {
+    "value": 60772,
+    "label": "Marker"
+  },
+  {
+    "value": 60773,
+    "label": "InkingCaret"
+  },
+  {
+    "value": 60774,
+    "label": "InkingColorOutline"
+  },
+  {
+    "value": 60775,
+    "label": "InkingColorFill"
+  },
+  {
+    "value": 60834,
+    "label": "HardDrive"
+  },
+  {
+    "value": 60835,
+    "label": "NetworkAdapter"
+  },
+  {
+    "value": 60836,
+    "label": "Touchscreen"
+  },
+  {
+    "value": 60837,
+    "label": "NetworkPrinter"
+  },
+  {
+    "value": 60838,
+    "label": "CloudPrinter"
+  },
+  {
+    "value": 60839,
+    "label": "KeyboardShortcut"
+  },
+  {
+    "value": 60840,
+    "label": "BrushSize"
+  },
+  {
+    "value": 60841,
+    "label": "NarratorForward"
+  },
+  {
+    "value": 60842,
+    "label": "NarratorForwardMirrored"
+  },
+  {
+    "value": 60843,
+    "label": "SyncBadge12"
+  },
+  {
+    "value": 60844,
+    "label": "RingerBadge12"
+  },
+  {
+    "value": 60845,
+    "label": "AsteriskBadge12"
+  },
+  {
+    "value": 60846,
+    "label": "ErrorBadge12"
+  },
+  {
+    "value": 60847,
+    "label": "CircleRingBadge12"
+  },
+  {
+    "value": 60848,
+    "label": "CircleFillBadge12"
+  },
+  {
+    "value": 60849,
+    "label": "ImportantBadge12"
+  },
+  {
+    "value": 60851,
+    "label": "MailBadge12"
+  },
+  {
+    "value": 60852,
+    "label": "PauseBadge12"
+  },
+  {
+    "value": 60853,
+    "label": "PlayBadge12"
+  },
+  {
+    "value": 60870,
+    "label": "PenWorkspace"
+  },
+  {
+    "value": 60885,
+    "label": "CaretLeft8"
+  },
+  {
+    "value": 60886,
+    "label": "CaretRight8"
+  },
+  {
+    "value": 60887,
+    "label": "CaretUp8"
+  },
+  {
+    "value": 60888,
+    "label": "CaretDown8"
+  },
+  {
+    "value": 60889,
+    "label": "CaretLeftSolid8"
+  },
+  {
+    "value": 60890,
+    "label": "CaretRightSolid8"
+  },
+  {
+    "value": 60891,
+    "label": "CaretUpSolid8"
+  },
+  {
+    "value": 60892,
+    "label": "CaretDownSolid8"
+  },
+  {
+    "value": 60896,
+    "label": "Strikethrough"
+  },
+  {
+    "value": 60897,
+    "label": "Export"
+  },
+  {
+    "value": 60898,
+    "label": "ExportMirrored"
+  },
+  {
+    "value": 60899,
+    "label": "ButtonMenu"
+  },
+  {
+    "value": 60900,
+    "label": "CloudSearch"
+  },
+  {
+    "value": 60901,
+    "label": "PinyinIMELogo"
+  },
+  {
+    "value": 60923,
+    "label": "CalligraphyPen"
+  },
+  {
+    "value": 60981,
+    "label": "ReplyMirrored"
+  },
+  {
+    "value": 60991,
+    "label": "LockscreenDesktop"
+  },
+  {
+    "value": 60992,
+    "label": "TaskViewSettings"
+  },
+  {
+    "value": 60999,
+    "label": "MiniExpand2Mirrored"
+  },
+  {
+    "value": 61001,
+    "label": "MiniContract2Mirrored"
+  },
+  {
+    "value": 61002,
+    "label": "Play36"
+  },
+  {
+    "value": 61014,
+    "label": "PenPalette"
+  },
+  {
+    "value": 61015,
+    "label": "GuestUser"
+  },
+  {
+    "value": 61027,
+    "label": "SettingsBattery"
+  },
+  {
+    "value": 61028,
+    "label": "TaskbarPhone"
+  },
+  {
+    "value": 61029,
+    "label": "LockScreenGlance"
+  },
+  {
+    "value": 61039,
+    "label": "GenericScan"
+  },
+  {
+    "value": 61041,
+    "label": "ImageExport"
+  },
+  {
+    "value": 61047,
+    "label": "WifiEthernet"
+  },
+  {
+    "value": 61049,
+    "label": "ActionCenterQuiet"
+  },
+  {
+    "value": 61050,
+    "label": "ActionCenterQuietNotification"
+  },
+  {
+    "value": 61074,
+    "label": "TrackersMirrored"
+  },
+  {
+    "value": 61075,
+    "label": "DateTimeMirrored"
+  },
+  {
+    "value": 61076,
+    "label": "Wheel"
+  },
+  {
+    "value": 61091,
+    "label": "VirtualMachineGroup"
+  },
+  {
+    "value": 61130,
+    "label": "ButtonView2"
+  },
+  {
+    "value": 61205,
+    "label": "PenWorkspaceMirrored"
+  },
+  {
+    "value": 61206,
+    "label": "PenPaletteMirrored"
+  },
+  {
+    "value": 61207,
+    "label": "StrokeEraseMirrored"
+  },
+  {
+    "value": 61208,
+    "label": "PointEraseMirrored"
+  },
+  {
+    "value": 61209,
+    "label": "ClearAllInkMirrored"
+  },
+  {
+    "value": 61215,
+    "label": "BackgroundToggle"
+  },
+  {
+    "value": 61216,
+    "label": "Marquee"
+  },
+  {
+    "value": 61228,
+    "label": "ChromeCloseContrast"
+  },
+  {
+    "value": 61229,
+    "label": "ChromeMinimizeContrast"
+  },
+  {
+    "value": 61230,
+    "label": "ChromeMaximizeContrast"
+  },
+  {
+    "value": 61231,
+    "label": "ChromeRestoreContrast"
+  },
+  {
+    "value": 61233,
+    "label": "TrafficLight"
+  },
+  {
+    "value": 61243,
+    "label": "Replay"
+  },
+  {
+    "value": 61244,
+    "label": "Eyedropper"
+  },
+  {
+    "value": 61245,
+    "label": "LineDisplay"
+  },
+  {
+    "value": 61246,
+    "label": "PINPad"
+  },
+  {
+    "value": 61247,
+    "label": "SignatureCapture"
+  },
+  {
+    "value": 61248,
+    "label": "ChipCardCreditCardReader"
+  },
+  {
+    "value": 61250,
+    "label": "MarketDown"
+  },
+  {
+    "value": 61272,
+    "label": "PlayerSettings"
+  },
+  {
+    "value": 61291,
+    "label": "LandscapeOrientation"
+  },
+  {
+    "value": 61328,
+    "label": "Flow"
+  },
+  {
+    "value": 61349,
+    "label": "Touchpad"
+  },
+  {
+    "value": 61353,
+    "label": "Speech"
+  },
+  {
+    "value": 61440,
+    "label": "KnowledgeArticle"
+  },
+  {
+    "value": 61443,
+    "label": "Relationship"
+  },
+  {
+    "value": 61458,
+    "label": "ZipFolder"
+  },
+  {
+    "value": 61568,
+    "label": "DefaultAPN"
+  },
+  {
+    "value": 61569,
+    "label": "UserAPN"
+  },
+  {
+    "value": 61573,
+    "label": "DoublePinyin"
+  },
+  {
+    "value": 61580,
+    "label": "BlueLight"
+  },
+  {
+    "value": 61581,
+    "label": "CaretSolidLeft"
+  },
+  {
+    "value": 61582,
+    "label": "CaretSolidDown"
+  },
+  {
+    "value": 61583,
+    "label": "CaretSolidRight"
+  },
+  {
+    "value": 61584,
+    "label": "CaretSolidUp"
+  },
+  {
+    "value": 61587,
+    "label": "ButtonA"
+  },
+  {
+    "value": 61588,
+    "label": "ButtonB"
+  },
+  {
+    "value": 61589,
+    "label": "ButtonY"
+  },
+  {
+    "value": 61590,
+    "label": "ButtonX"
+  },
+  {
+    "value": 61613,
+    "label": "ArrowUp8"
+  },
+  {
+    "value": 61614,
+    "label": "ArrowDown8"
+  },
+  {
+    "value": 61615,
+    "label": "ArrowRight8"
+  },
+  {
+    "value": 61616,
+    "label": "ArrowLeft8"
+  },
+  {
+    "value": 61618,
+    "label": "QuarentinedItems"
+  },
+  {
+    "value": 61619,
+    "label": "QuarentinedItemsMirrored"
+  },
+  {
+    "value": 61620,
+    "label": "Protractor"
+  },
+  {
+    "value": 61621,
+    "label": "ChecklistMirrored"
+  },
+  {
+    "value": 61622,
+    "label": "StatusCircle7"
+  },
+  {
+    "value": 61623,
+    "label": "StatusCheckmark7"
+  },
+  {
+    "value": 61624,
+    "label": "StatusErrorCircle7"
+  },
+  {
+    "value": 61625,
+    "label": "Connected"
+  },
+  {
+    "value": 61638,
+    "label": "PencilFill"
+  },
+  {
+    "value": 61639,
+    "label": "CalligraphyFill"
+  },
+  {
+    "value": 61642,
+    "label": "QuarterStarLeft"
+  },
+  {
+    "value": 61643,
+    "label": "QuarterStarRight"
+  },
+  {
+    "value": 61644,
+    "label": "ThreeQuarterStarLeft"
+  },
+  {
+    "value": 61645,
+    "label": "ThreeQuarterStarRight"
+  },
+  {
+    "value": 61646,
+    "label": "QuietHoursBadge12"
+  },
+  {
+    "value": 61650,
+    "label": "BackMirrored"
+  },
+  {
+    "value": 61651,
+    "label": "ForwardMirrored"
+  },
+  {
+    "value": 61653,
+    "label": "ChromeBackContrast"
+  },
+  {
+    "value": 61654,
+    "label": "ChromeBackContrastMirrored"
+  },
+  {
+    "value": 61655,
+    "label": "ChromeBackToWindowContrast"
+  },
+  {
+    "value": 61656,
+    "label": "ChromeFullScreenContrast"
+  },
+  {
+    "value": 61666,
+    "label": "GridView"
+  },
+  {
+    "value": 61667,
+    "label": "ClipboardList"
+  },
+  {
+    "value": 61668,
+    "label": "ClipboardListMirrored"
+  },
+  {
+    "value": 61669,
+    "label": "OutlineQuarterStarLeft"
+  },
+  {
+    "value": 61670,
+    "label": "OutlineQuarterStarRight"
+  },
+  {
+    "value": 61671,
+    "label": "OutlineHalfStarLeft"
+  },
+  {
+    "value": 61672,
+    "label": "OutlineHalfStarRight"
+  },
+  {
+    "value": 61673,
+    "label": "OutlineThreeQuarterStarLeft"
+  },
+  {
+    "value": 61674,
+    "label": "OutlineThreeQuarterStarRight"
+  },
+  {
+    "value": 61675,
+    "label": "SpatialVolume0"
+  },
+  {
+    "value": 61676,
+    "label": "SpatialVolume1"
+  },
+  {
+    "value": 61677,
+    "label": "SpatialVolume2"
+  },
+  {
+    "value": 61678,
+    "label": "SpatialVolume3"
+  },
+  {
+    "value": 61679,
+    "label": "ApplicationGuard"
+  },
+  {
+    "value": 61687,
+    "label": "OutlineStarLeftHalf"
+  },
+  {
+    "value": 61688,
+    "label": "OutlineStarRightHalf"
+  },
+  {
+    "value": 61689,
+    "label": "ChromeAnnotateContrast"
+  },
+  {
+    "value": 61691,
+    "label": "DefenderBadge12"
+  },
+  {
+    "value": 61699,
+    "label": "DetachablePC"
+  },
+  {
+    "value": 61704,
+    "label": "LeftStick"
+  },
+  {
+    "value": 61705,
+    "label": "RightStick"
+  },
+  {
+    "value": 61706,
+    "label": "TriggerLeft"
+  },
+  {
+    "value": 61707,
+    "label": "TriggerRight"
+  },
+  {
+    "value": 61708,
+    "label": "BumperLeft"
+  },
+  {
+    "value": 61709,
+    "label": "BumperRight"
+  },
+  {
+    "value": 61710,
+    "label": "Dpad"
+  },
+  {
+    "value": 61712,
+    "label": "EnglishPunctuation"
+  },
+  {
+    "value": 61713,
+    "label": "ChinesePunctuation"
+  },
+  {
+    "value": 61721,
+    "label": "HMD"
+  },
+  {
+    "value": 61723,
+    "label": "CtrlSpatialRight"
+  },
+  {
+    "value": 61734,
+    "label": "PaginationDotOutline10"
+  },
+  {
+    "value": 61735,
+    "label": "PaginationDotSolid10"
+  },
+  {
+    "value": 61736,
+    "label": "StrokeErase2"
+  },
+  {
+    "value": 61737,
+    "label": "SmallErase"
+  },
+  {
+    "value": 61738,
+    "label": "LargeErase"
+  },
+  {
+    "value": 61739,
+    "label": "FolderHorizontal"
+  },
+  {
+    "value": 61742,
+    "label": "MicrophoneListening"
+  },
+  {
+    "value": 61743,
+    "label": "StatusExclamationCircle7"
+  },
+  {
+    "value": 61745,
+    "label": "Video360"
+  },
+  {
+    "value": 61747,
+    "label": "GiftboxOpen"
+  },
+  {
+    "value": 61750,
+    "label": "StatusCircleOuter"
+  },
+  {
+    "value": 61751,
+    "label": "StatusCircleInner"
+  },
+  {
+    "value": 61752,
+    "label": "StatusCircleRing"
+  },
+  {
+    "value": 61753,
+    "label": "StatusTriangleOuter"
+  },
+  {
+    "value": 61754,
+    "label": "StatusTriangleInner"
+  },
+  {
+    "value": 61755,
+    "label": "StatusTriangleExclamation"
+  },
+  {
+    "value": 61756,
+    "label": "StatusCircleExclamation"
+  },
+  {
+    "value": 61757,
+    "label": "StatusCircleErrorX"
+  },
+  {
+    "value": 61758,
+    "label": "StatusCircleCheckmark"
+  },
+  {
+    "value": 61759,
+    "label": "StatusCircleInfo"
+  },
+  {
+    "value": 61760,
+    "label": "StatusCircleBlock"
+  },
+  {
+    "value": 61761,
+    "label": "StatusCircleBlock2"
+  },
+  {
+    "value": 61762,
+    "label": "StatusCircleQuestionMark"
+  },
+  {
+    "value": 61763,
+    "label": "StatusCircleSync"
+  },
+  {
+    "value": 61766,
+    "label": "Dial1"
+  },
+  {
+    "value": 61767,
+    "label": "Dial2"
+  },
+  {
+    "value": 61768,
+    "label": "Dial3"
+  },
+  {
+    "value": 61769,
+    "label": "Dial4"
+  },
+  {
+    "value": 61770,
+    "label": "Dial5"
+  },
+  {
+    "value": 61771,
+    "label": "Dial6"
+  },
+  {
+    "value": 61772,
+    "label": "Dial7"
+  },
+  {
+    "value": 61773,
+    "label": "Dial8"
+  },
+  {
+    "value": 61774,
+    "label": "Dial9"
+  },
+  {
+    "value": 61775,
+    "label": "Dial10"
+  },
+  {
+    "value": 61776,
+    "label": "Dial11"
+  },
+  {
+    "value": 61777,
+    "label": "Dial12"
+  },
+  {
+    "value": 61778,
+    "label": "Dial13"
+  },
+  {
+    "value": 61779,
+    "label": "Dial14"
+  },
+  {
+    "value": 61780,
+    "label": "Dial15"
+  },
+  {
+    "value": 61781,
+    "label": "Dial16"
+  },
+  {
+    "value": 61782,
+    "label": "DialShape1"
+  },
+  {
+    "value": 61783,
+    "label": "DialShape2"
+  },
+  {
+    "value": 61784,
+    "label": "DialShape3"
+  },
+  {
+    "value": 61785,
+    "label": "DialShape4"
+  },
+  {
+    "value": 61791,
+    "label": "ClosedCaptionsInternational"
+  },
+  {
+    "value": 61793,
+    "label": "TollSolid"
+  },
+  {
+    "value": 61795,
+    "label": "TrafficCongestionSolid"
+  },
+  {
+    "value": 61796,
+    "label": "ExploreContentSingle"
+  },
+  {
+    "value": 61797,
+    "label": "CollapseContent"
+  },
+  {
+    "value": 61798,
+    "label": "CollapseContentSingle"
+  },
+  {
+    "value": 61799,
+    "label": "InfoSolid"
+  },
+  {
+    "value": 61800,
+    "label": "GroupList"
+  },
+  {
+    "value": 61801,
+    "label": "CaretBottomRightSolidCenter8"
+  },
+  {
+    "value": 61802,
+    "label": "ProgressRingDots"
+  },
+  {
+    "value": 61803,
+    "label": "Checkbox14"
+  },
+  {
+    "value": 61804,
+    "label": "CheckboxComposite14"
+  },
+  {
+    "value": 61805,
+    "label": "CheckboxIndeterminateCombo14"
+  },
+  {
+    "value": 61806,
+    "label": "CheckboxIndeterminateCombo"
+  },
+  {
+    "value": 61813,
+    "label": "StatusPause7"
+  },
+  {
+    "value": 61823,
+    "label": "CharacterAppearance"
+  },
+  {
+    "value": 61824,
+    "label": "Lexicon"
+  },
+  {
+    "value": 61826,
+    "label": "ScreenTime"
+  },
+  {
+    "value": 61841,
+    "label": "HeadlessDevice"
+  },
+  {
+    "value": 61843,
+    "label": "NetworkSharing"
+  },
+  {
+    "value": 61853,
+    "label": "EyeGaze"
+  },
+  {
+    "value": 61854,
+    "label": "ToggleLeft"
+  },
+  {
+    "value": 61855,
+    "label": "ToggleRight"
+  },
+  {
+    "value": 61869,
+    "label": "WindowsInsider"
+  },
+  {
+    "value": 61899,
+    "label": "ChromeSwitch"
+  },
+  {
+    "value": 61900,
+    "label": "ChromeSwitchContast"
+  },
+  {
+    "value": 61912,
+    "label": "StatusCheckmark"
+  },
+  {
+    "value": 61913,
+    "label": "StatusCheckmarkLeft"
+  },
+  {
+    "value": 61964,
+    "label": "KeyboardLeftAligned"
+  },
+  {
+    "value": 61965,
+    "label": "KeyboardRightAligned"
+  },
+  {
+    "value": 61968,
+    "label": "KeyboardSettings"
+  },
+  {
+    "value": 61969,
+    "label": "NetworkPhysical"
+  },
+  {
+    "value": 61996,
+    "label": "IOT"
+  },
+  {
+    "value": 61998,
+    "label": "UnknownMirrored"
+  },
+  {
+    "value": 62022,
+    "label": "ViewDashboard"
+  },
+  {
+    "value": 62041,
+    "label": "ExploitProtectionSettings"
+  },
+  {
+    "value": 62048,
+    "label": "KeyboardNarrow"
+  },
+  {
+    "value": 62049,
+    "label": "Keyboard12Key"
+  },
+  {
+    "value": 62059,
+    "label": "KeyboardDock"
+  },
+  {
+    "value": 62060,
+    "label": "KeyboardUndock"
+  },
+  {
+    "value": 62061,
+    "label": "KeyboardLeftDock"
+  },
+  {
+    "value": 62062,
+    "label": "KeyboardRightDock"
+  },
+  {
+    "value": 62064,
+    "label": "Ear"
+  },
+  {
+    "value": 62065,
+    "label": "PointerHand"
+  },
+  {
+    "value": 62066,
+    "label": "Bullseye"
+  },
+  {
+    "value": 62091,
+    "label": "DocumentApproval"
+  },
+  {
+    "value": 62135,
+    "label": "LocaleLanguage"
+  },
+  {
+    "value": 62250,
+    "label": "PassiveAuthentication"
+  },
+  {
+    "value": 62292,
+    "label": "ColorSolid"
+  },
+  {
+    "value": 62340,
+    "label": "NetworkOffline"
+  },
+  {
+    "value": 62341,
+    "label": "NetworkConnected"
+  },
+  {
+    "value": 62342,
+    "label": "NetworkConnectedCheckmark"
+  },
+  {
+    "value": 62385,
+    "label": "SignOut"
+  },
+  {
+    "value": 62412,
+    "label": "StatusInfo"
+  },
+  {
+    "value": 62413,
+    "label": "StatusInfoLeft"
+  },
+  {
+    "value": 62434,
+    "label": "NearbySharing"
+  },
+  {
+    "value": 62439,
+    "label": "CtrlSpatialLeft"
+  },
+  {
+    "value": 62468,
+    "label": "InteractiveDashboard"
+  },
+  {
+    "value": 62469,
+    "label": "DeclineCall"
+  },
+  {
+    "value": 62470,
+    "label": "ClippingTool"
+  },
+  {
+    "value": 62471,
+    "label": "RectangularClipping"
+  },
+  {
+    "value": 62472,
+    "label": "FreeFormClipping"
+  },
+  {
+    "value": 62483,
+    "label": "CopyTo"
+  },
+  {
+    "value": 62503,
+    "label": "IDBadge"
+  },
+  {
+    "value": 62521,
+    "label": "DynamicLock"
+  },
+  {
+    "value": 62558,
+    "label": "PenTips"
+  },
+  {
+    "value": 62559,
+    "label": "PenTipsMirrored"
+  },
+  {
+    "value": 62560,
+    "label": "HWPJoin"
+  },
+  {
+    "value": 62561,
+    "label": "HWPInsert"
+  },
+  {
+    "value": 62562,
+    "label": "HWPStrikeThrough"
+  },
+  {
+    "value": 62563,
+    "label": "HWPScratchOut"
+  },
+  {
+    "value": 62564,
+    "label": "HWPSplit"
+  },
+  {
+    "value": 62565,
+    "label": "HWPNewLine"
+  },
+  {
+    "value": 62566,
+    "label": "HWPOverwrite"
+  },
+  {
+    "value": 62579,
+    "label": "MobWifiWarning1"
+  },
+  {
+    "value": 62580,
+    "label": "MobWifiWarning2"
+  },
+  {
+    "value": 62581,
+    "label": "MobWifiWarning3"
+  },
+  {
+    "value": 62582,
+    "label": "MobWifiWarning4"
+  },
+  {
+    "value": 62591,
+    "label": "MicLocationCombo"
+  },
+  {
+    "value": 62618,
+    "label": "Globe2"
+  },
+  {
+    "value": 62629,
+    "label": "SpecialEffectSize"
+  },
+  {
+    "value": 62633,
+    "label": "GIF"
+  },
+  {
+    "value": 62634,
+    "label": "Sticker2"
+  },
+  {
+    "value": 62654,
+    "label": "SurfaceHubSelected"
+  },
+  {
+    "value": 62655,
+    "label": "HoloLensSelected"
+  },
+  {
+    "value": 62656,
+    "label": "Earbud"
+  },
+  {
+    "value": 62659,
+    "label": "MixVolumes"
+  },
+  {
+    "value": 62784,
+    "label": "Safe"
+  },
+  {
+    "value": 62802,
+    "label": "LaptopSecure"
+  },
+  {
+    "value": 62829,
+    "label": "PrintDefault"
+  },
+  {
+    "value": 62830,
+    "label": "PageMirrored"
+  },
+  {
+    "value": 62831,
+    "label": "LandscapeOrientationMirrored"
+  },
+  {
+    "value": 62832,
+    "label": "ColorOff"
+  },
+  {
+    "value": 62833,
+    "label": "PrintAllPages"
+  },
+  {
+    "value": 62834,
+    "label": "PrintCustomRange"
+  },
+  {
+    "value": 62835,
+    "label": "PageMarginPortraitNarrow"
+  },
+  {
+    "value": 62836,
+    "label": "PageMarginPortraitNormal"
+  },
+  {
+    "value": 62837,
+    "label": "PageMarginPortraitModerate"
+  },
+  {
+    "value": 62838,
+    "label": "PageMarginPortraitWide"
+  },
+  {
+    "value": 62839,
+    "label": "PageMarginLandscapeNarrow"
+  },
+  {
+    "value": 62840,
+    "label": "PageMarginLandscapeNormal"
+  },
+  {
+    "value": 62841,
+    "label": "PageMarginLandscapeModerate"
+  },
+  {
+    "value": 62842,
+    "label": "PageMarginLandscapeWide"
+  },
+  {
+    "value": 62843,
+    "label": "CollateLandscape"
+  },
+  {
+    "value": 62844,
+    "label": "CollatePortrait"
+  },
+  {
+    "value": 62845,
+    "label": "CollatePortraitSeparated"
+  },
+  {
+    "value": 62846,
+    "label": "DuplexLandscapeOneSided"
+  },
+  {
+    "value": 62847,
+    "label": "DuplexLandscapeOneSidedMirrored"
+  },
+  {
+    "value": 62848,
+    "label": "DuplexLandscapeTwoSidedLongEdge"
+  },
+  {
+    "value": 62849,
+    "label": "DuplexLandscapeTwoSidedLongEdgeMirrored"
+  },
+  {
+    "value": 62850,
+    "label": "DuplexLandscapeTwoSidedShortEdge"
+  },
+  {
+    "value": 62851,
+    "label": "DuplexLandscapeTwoSidedShortEdgeMirrored"
+  },
+  {
+    "value": 62852,
+    "label": "DuplexPortraitOneSided"
+  },
+  {
+    "value": 62853,
+    "label": "DuplexPortraitOneSidedMirrored"
+  },
+  {
+    "value": 62854,
+    "label": "DuplexPortraitTwoSidedLongEdge"
+  },
+  {
+    "value": 62855,
+    "label": "DuplexPortraitTwoSidedLongEdgeMirrored"
+  },
+  {
+    "value": 62856,
+    "label": "DuplexPortraitTwoSidedShortEdge"
+  },
+  {
+    "value": 62857,
+    "label": "DuplexPortraitTwoSidedShortEdgeMirrored"
+  },
+  {
+    "value": 62858,
+    "label": "PPSOneLandscape"
+  },
+  {
+    "value": 62859,
+    "label": "PPSTwoLandscape"
+  },
+  {
+    "value": 62860,
+    "label": "PPSTwoPortrait"
+  },
+  {
+    "value": 62861,
+    "label": "PPSFourLandscape"
+  },
+  {
+    "value": 62862,
+    "label": "PPSFourPortrait"
+  },
+  {
+    "value": 62863,
+    "label": "HolePunchOff"
+  },
+  {
+    "value": 62864,
+    "label": "HolePunchPortraitLeft"
+  },
+  {
+    "value": 62865,
+    "label": "HolePunchPortraitRight"
+  },
+  {
+    "value": 62866,
+    "label": "HolePunchPortraitTop"
+  },
+  {
+    "value": 62867,
+    "label": "HolePunchPortraitBottom"
+  },
+  {
+    "value": 62868,
+    "label": "HolePunchLandscapeLeft"
+  },
+  {
+    "value": 62869,
+    "label": "HolePunchLandscapeRight"
+  },
+  {
+    "value": 62870,
+    "label": "HolePunchLandscapeTop"
+  },
+  {
+    "value": 62871,
+    "label": "HolePunchLandscapeBottom"
+  },
+  {
+    "value": 62872,
+    "label": "StaplingOff"
+  },
+  {
+    "value": 62873,
+    "label": "StaplingPortraitTopLeft"
+  },
+  {
+    "value": 62874,
+    "label": "StaplingPortraitTopRight"
+  },
+  {
+    "value": 62875,
+    "label": "StaplingPortraitBottomRight"
+  },
+  {
+    "value": 62876,
+    "label": "StaplingPortraitTwoLeft"
+  },
+  {
+    "value": 62877,
+    "label": "StaplingPortraitTwoRight"
+  },
+  {
+    "value": 62878,
+    "label": "StaplingPortraitTwoTop"
+  },
+  {
+    "value": 62879,
+    "label": "StaplingPortraitTwoBottom"
+  },
+  {
+    "value": 62880,
+    "label": "StaplingPortraitBookBinding"
+  },
+  {
+    "value": 62881,
+    "label": "StaplingLandscapeTopLeft"
+  },
+  {
+    "value": 62882,
+    "label": "StaplingLandscapeTopRight"
+  },
+  {
+    "value": 62883,
+    "label": "StaplingLandscapeBottomLeft"
+  },
+  {
+    "value": 62884,
+    "label": "StaplingLandscapeBottomRight"
+  },
+  {
+    "value": 62885,
+    "label": "StaplingLandscapeTwoLeft"
+  },
+  {
+    "value": 62886,
+    "label": "StaplingLandscapeTwoRight"
+  },
+  {
+    "value": 62887,
+    "label": "StaplingLandscapeTwoTop"
+  },
+  {
+    "value": 62888,
+    "label": "StaplingLandscapeTwoBottom"
+  },
+  {
+    "value": 62889,
+    "label": "StaplingLandscapeBookBinding"
+  },
+  {
+    "value": 62890,
+    "label": "StatusDataTransferRoaming"
+  },
+  {
+    "value": 62891,
+    "label": "MobSIMError"
+  },
+  {
+    "value": 62892,
+    "label": "CollateLandscapeSeparated"
+  },
+  {
+    "value": 62893,
+    "label": "PPSOnePortrait"
+  },
+  {
+    "value": 62894,
+    "label": "StaplingPortraitBottomLeft"
+  },
+  {
+    "value": 62896,
+    "label": "PlaySolid"
+  },
+  {
+    "value": 62951,
+    "label": "RepeatOff"
+  },
+  {
+    "value": 62957,
+    "label": "Set"
+  },
+  {
+    "value": 62958,
+    "label": "SetSolid"
+  },
+  {
+    "value": 62959,
+    "label": "FuzzyReading"
+  },
+  {
+    "value": 62962,
+    "label": "VerticalBattery0"
+  },
+  {
+    "value": 62963,
+    "label": "VerticalBattery1"
+  },
+  {
+    "value": 62964,
+    "label": "VerticalBattery2"
+  },
+  {
+    "value": 62965,
+    "label": "VerticalBattery3"
+  },
+  {
+    "value": 62966,
+    "label": "VerticalBattery4"
+  },
+  {
+    "value": 62967,
+    "label": "VerticalBattery5"
+  },
+  {
+    "value": 62968,
+    "label": "VerticalBattery6"
+  },
+  {
+    "value": 62969,
+    "label": "VerticalBattery7"
+  },
+  {
+    "value": 62970,
+    "label": "VerticalBattery8"
+  },
+  {
+    "value": 62971,
+    "label": "VerticalBattery9"
+  },
+  {
+    "value": 62972,
+    "label": "VerticalBattery10"
+  },
+  {
+    "value": 62973,
+    "label": "VerticalBatteryCharging0"
+  },
+  {
+    "value": 62974,
+    "label": "VerticalBatteryCharging1"
+  },
+  {
+    "value": 62975,
+    "label": "VerticalBatteryCharging2"
+  },
+  {
+    "value": 62976,
+    "label": "VerticalBatteryCharging3"
+  },
+  {
+    "value": 62977,
+    "label": "VerticalBatteryCharging4"
+  },
+  {
+    "value": 62978,
+    "label": "VerticalBatteryCharging5"
+  },
+  {
+    "value": 62979,
+    "label": "VerticalBatteryCharging6"
+  },
+  {
+    "value": 62980,
+    "label": "VerticalBatteryCharging7"
+  },
+  {
+    "value": 62981,
+    "label": "VerticalBatteryCharging8"
+  },
+  {
+    "value": 62982,
+    "label": "VerticalBatteryCharging9"
+  },
+  {
+    "value": 62983,
+    "label": "VerticalBatteryCharging10"
+  },
+  {
+    "value": 62984,
+    "label": "VerticalBatteryUnknown"
+  },
+  {
+    "value": 63000,
+    "label": "SIMError"
+  },
+  {
+    "value": 63001,
+    "label": "SIMMissing"
+  },
+  {
+    "value": 63002,
+    "label": "SIMLock"
+  },
+  {
+    "value": 63003,
+    "label": "eSIM"
+  },
+  {
+    "value": 63004,
+    "label": "eSIMNoProfile"
+  },
+  {
+    "value": 63005,
+    "label": "eSIMLocked"
+  },
+  {
+    "value": 63006,
+    "label": "eSIMBusy"
+  },
+  {
+    "value": 63007,
+    "label": "NoiseCancelation"
+  },
+  {
+    "value": 63008,
+    "label": "NoiseCancelationOff"
+  },
+  {
+    "value": 63011,
+    "label": "MusicSharing"
+  },
+  {
+    "value": 63012,
+    "label": "MusicSharingOff"
+  },
+  {
+    "value": 63036,
+    "label": "CircleShapeSolid"
+  },
+  {
+    "value": 63063,
+    "label": "WifiCallBars"
+  },
+  {
+    "value": 63064,
+    "label": "WifiCall0"
+  },
+  {
+    "value": 63065,
+    "label": "WifiCall1"
+  },
+  {
+    "value": 63066,
+    "label": "WifiCall2"
+  },
+  {
+    "value": 63067,
+    "label": "WifiCall3"
+  },
+  {
+    "value": 63068,
+    "label": "WifiCall4"
+  },
+  {
+    "value": 63134,
+    "label": "CHTLanguageBar"
+  },
+  {
+    "value": 63145,
+    "label": "ComposeMode"
+  },
+  {
+    "value": 63160,
+    "label": "ExpressiveInputEntry"
+  },
+  {
+    "value": 63162,
+    "label": "EmojiTabMoreSymbols"
+  },
+  {
+    "value": 63226,
+    "label": "WebSearch"
+  },
+  {
+    "value": 63250,
+    "label": "Kiosk"
+  },
+  {
+    "value": 63252,
+    "label": "RTTLogo"
+  },
+  {
+    "value": 63253,
+    "label": "VoiceCall"
+  },
+  {
+    "value": 63254,
+    "label": "GoToMessage"
+  },
+  {
+    "value": 63258,
+    "label": "ReturnToCall"
+  },
+  {
+    "value": 63260,
+    "label": "StartPresenting"
+  },
+  {
+    "value": 63261,
+    "label": "StopPresenting"
+  },
+  {
+    "value": 63262,
+    "label": "ProductivityMode"
+  },
+  {
+    "value": 63288,
+    "label": "SetHistoryStatus"
+  },
+  {
+    "value": 63289,
+    "label": "SetHistoryStatus2"
+  },
+  {
+    "value": 63293,
+    "label": "Keyboardsettings20"
+  },
+  {
+    "value": 63294,
+    "label": "OneHandedRight20"
+  },
+  {
+    "value": 63295,
+    "label": "OneHandedLeft20"
+  },
+  {
+    "value": 63296,
+    "label": "Split20"
+  },
+  {
+    "value": 63297,
+    "label": "Full20"
+  },
+  {
+    "value": 63298,
+    "label": "Handwriting20"
+  },
+  {
+    "value": 63299,
+    "label": "ChevronLeft20"
+  },
+  {
+    "value": 63300,
+    "label": "ChevronLeft32"
+  },
+  {
+    "value": 63301,
+    "label": "ChevronRight20"
+  },
+  {
+    "value": 63302,
+    "label": "ChevronRight32"
+  },
+  {
+    "value": 63331,
+    "label": "Event12"
+  },
+  {
+    "value": 63361,
+    "label": "MicOff2"
+  },
+  {
+    "value": 63365,
+    "label": "DeliveryOptimization"
+  },
+  {
+    "value": 63370,
+    "label": "CancelMedium"
+  },
+  {
+    "value": 63371,
+    "label": "SearchMedium"
+  },
+  {
+    "value": 63372,
+    "label": "AcceptMedium"
+  },
+  {
+    "value": 63373,
+    "label": "RevealPasswordMedium"
+  },
+  {
+    "value": 63405,
+    "label": "DeleteWord"
+  },
+  {
+    "value": 63406,
+    "label": "DeleteWordFill"
+  },
+  {
+    "value": 63407,
+    "label": "DeleteLines"
+  },
+  {
+    "value": 63408,
+    "label": "DeleteLinesFill"
+  },
+  {
+    "value": 63409,
+    "label": "InstertWords"
+  },
+  {
+    "value": 63410,
+    "label": "InstertWordsFill"
+  },
+  {
+    "value": 63411,
+    "label": "JoinWords"
+  },
+  {
+    "value": 63412,
+    "label": "JoinWordsFill"
+  },
+  {
+    "value": 63413,
+    "label": "OverwriteWords"
+  },
+  {
+    "value": 63414,
+    "label": "OverwriteWordsFill"
+  },
+  {
+    "value": 63415,
+    "label": "AddNewLine"
+  },
+  {
+    "value": 63416,
+    "label": "AddNewLineFill"
+  },
+  {
+    "value": 63417,
+    "label": "OverwriteWordsKorean"
+  },
+  {
+    "value": 63418,
+    "label": "OverwriteWordsFillKorean"
+  },
+  {
+    "value": 63419,
+    "label": "EducationIcon"
+  },
+  {
+    "value": 63469,
+    "label": "WindowSnipping"
+  },
+  {
+    "value": 63470,
+    "label": "VideoCapture"
+  },
+  {
+    "value": 63497,
+    "label": "StatusSecured"
+  },
+  {
+    "value": 63547,
+    "label": "NarratorApp"
+  },
+  {
+    "value": 63549,
+    "label": "PowerButtonUpdate"
+  },
+  {
+    "value": 63550,
+    "label": "RestartUpdate"
+  },
+  {
+    "value": 63551,
+    "label": "UpdateStatusDot"
+  },
+  {
+    "value": 63559,
+    "label": "Eject"
+  },
+  {
+    "value": 63611,
+    "label": "Spelling"
+  },
+  {
+    "value": 63612,
+    "label": "SpellingKorean"
+  },
+  {
+    "value": 63613,
+    "label": "SpellingSerbian"
+  },
+  {
+    "value": 63614,
+    "label": "SpellingChinese"
+  },
+  {
+    "value": 63642,
+    "label": "FolderSelect"
+  },
+  {
+    "value": 63653,
+    "label": "SmartScreen"
+  },
+  {
+    "value": 63654,
+    "label": "ExploitProtection"
+  },
+  {
+    "value": 63658,
+    "label": "AddBold"
+  },
+  {
+    "value": 63659,
+    "label": "SubtractBold"
+  },
+  {
+    "value": 63660,
+    "label": "BackSolidBold"
+  },
+  {
+    "value": 63661,
+    "label": "ForwardSolidBold"
+  },
+  {
+    "value": 63662,
+    "label": "PauseBold"
+  },
+  {
+    "value": 63663,
+    "label": "ClickSolid"
+  },
+  {
+    "value": 63664,
+    "label": "SettingsSolid"
+  },
+  {
+    "value": 63665,
+    "label": "MicrophoneSolidBold"
+  },
+  {
+    "value": 63666,
+    "label": "SpeechSolidBold"
+  },
+  {
+    "value": 63667,
+    "label": "ClickedOutLoudSolidBold"
+  }
+]
