@@ -31,11 +31,9 @@ public class Main : IPlugin, IContextMenu {
     }
 
     public List<Result> Query(Query query) {
-        if (string.IsNullOrWhiteSpace(query.Search))
-            return new List<Result> { new() { IcoPath = IcoPath, Title = "Waiting for input..." } };
-
         return _icons
             .Where(icon =>
+                string.IsNullOrWhiteSpace(query.Search) ||
                 _context.API.FuzzySearch(query.Search, icon.Label).IsSearchPrecisionScoreMet() ||
                 _context.API.FuzzySearch(query.Search, $"{icon.Value:X4}").IsSearchPrecisionScoreMet())
             .Select(icon => GetResult(icon, IconFormat.AmpersandX))
